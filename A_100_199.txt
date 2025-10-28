@@ -1,0 +1,1391 @@
+100PD    100AG EC DECAY (2.01 M)       1983RA10,1980HA20,1995BA2597NDS    199705
+   . . .
+100PD  L 3236.2    4                                                            
+100PD  E                0.6  3    0.1  0   6.5   2                  0.7   3     
+                                       ^^
+   DIE=0.
+
+
+101TC    100MO(7LI,ANG)                1991DE14,1986HA09         98NDS    199802
+   Target, reaction and outgoing are not compatibles.
+
+
+102TC    102TC IT DECAY                1969BL16                  98NDS    199804
+   . . .
+102TC  P 0           1+                5.28 S    15                             
+   IT decay from g.s.?
+
+
+102RU    100MO(7LI,P4NG),(7LI,D3NG),   1986HA09,1995DE38         98NDS    199804
+102RU  H TYP=FUL$AUT=D. DE FRENNE AND E. JACOBS$CIT=NDS 83, 535 (1998)$         
+102RU2 H CUT=1-JUL-1997$                                                        
+102RU2   (7LI,T2NG)                                                             
+   H-record between ID-records.
+
+
+104RH    ADOPTED LEVELS, GAMMAS                                  91NDS+00 200002
+   . . .
+104RH  L 817.4     2 8+                                                         
+   . . .
+104RH  G 233.2     2 84      8 M1(+E2)                                          
+104RH CG MR$-0.12 GT MR LT 0.05                                                 
+104RH  G 468.2     3 100     12  ( E2)                                          
+104RH CG MR$-0.17 GT MR LT +0.O5                                                
+                              ! should be digit zero, not letter O.
+   Should be
+104RH  G 233.2     2 84      8 M1(+E2)                                          
+104RH CG MR$-0.12 LT MR LT 0.05                                                 
+104RH  G 468.2     3 100     12  ( E2)                                          
+104RH CG MR$-0.17 LT MR LT +0.05                                                
+
+
+104PD    104AG EC DECAY (33.5 M)       1978MU01,1971DO10         91NDS+00 200002
+   . . .
+104PD  L 2626.9    4 1,2                                                        
+104PD  E               0.02  0    0.5  1   6.35   9             0.5       1     
+   DIB=0.
+   . . .
+104PD  L 2642.6      (1,2,3)                                                    
+104PD  E               0.002 0   0.06  1   7.26   8             0.06      1     
+   DIB=0.
+   . . .
+104PD  L 2714.8    6 (4,5,6)                                                    
+104PD  E               0.002 0   0.09  1   7.04   6             0.09      1     
+   DIB=0.
+   . . .
+104PD  L 2771.5    5                                                            
+104PD  E               0.001 0   0.09  1   7.01   6             0.09      1     
+   DIB=0.
+   . . .
+104PD  L 2975.5    5 (1,2,3)                                                    
+104PD  E               0.001 0    0.7  1   5.98   7             0.7       1     
+   DIB=0.
+
+
+104CD    104PD(3HE,3NG)                1977HAYN                  91NDS+00 200002
+   . . .
+104CD  L 0         0 0+                57.7 M                                   
+   DE=0.
+
+
+104SN    58NI(50CR,2P2NG)              1998GO12                  91NDS+00 200002
+   . . .
+104SN  L 0         0 0+                                                         
+   DE=0.
+
+
+104SN    (HI,XNG)                      1995SC50,1991SC22         91NDS+00 200002
+   . . .
+104SN  L 0         0 0+                                                         
+   DE=0.
+
+
+105SR    ADOPTED LEVELS                                                   199712
+   . . .
+105SR C  Produced by PB(238U,F), E=75O MEV/a (1995CzZZ,1997Au04)                
+                                     ! should be digit zero, not letter O.
+
+
+105Y     ADOPTED LEVELS                                                   199704
+   . . .
+105Y  C  Produced by PB(238U,F), E=75O MEV/a (1994Be24).                        
+                                     ! should be digit zero, not letter O.
+
+
+105AG    ADOPTED LEVELS, GAMMAS                                  93NDS    199305
+   . . .
+105AG  L   25.465  127/2+              7.23 M    16                          M1 
+   . . .
+105AG2 L %IT=99.66 7                                                            
+   Should be
+105AG2 L %IT=99.66 7$%EC=0.34 7                                                 
+
+
+105CD    105IN EC DECAY (5.07 M)       1984VE01,1989BU29         93NDS    199305
+   . . .
+105CD  L 771.01    9 (7/2,9/2)+                                                 
+105CD  E                7.1  2    1.4  0   5.92  2              8.5       2     
+   DIB=0.
+   . . .
+105CD  L 832.51    9 (9/2)+                                                     
+105CD  E                5.2  1    1.1  0   6.01  2              6.3       1     
+   DIB=0.
+   . . .
+105CD  L 2552.45   24(7/2+,9/2+,11/2+)                                          
+105CD  E                0.1  0    0.5  1   5.87   8             0.6       1     
+   DIB=0.
+   . . .
+105CD  L 3203.07   19(7/2+,9/2+,11/2+)                                          
+105CD  E               0.01  0    0.9  2   5.28  10             0.9       2     
+   DIB=0.
+
+
+109TC    ADOPTED LEVELS, GAMMAS                                  99NDS    199905
+   . . .
+109TC  L 0.0          (5/2+)           0.86 S    4                              
+   . . .
+109TC  L  69.1+X     (7/2+)                                                 A   
+   No X level specified.
+
+
+110IN    107AG(A,NG)                   1989KR12                  00NDS    200003
+   . . .
+110IN  L  1049.86   5(2)+              1.3 PS    +-4                            
+   Error DT.
+
+
+112NB    ADOPTED LEVELS                                                   199712
+   . . .
+112NB C  Produced by PB(238U,F), E=75O MEV/a (1995CzZZ,1997Au04)                
+                                     ! should be digit zero, not letter O.
+
+
+112MO    ADOPTED LEVELS                                                   199704
+   . . .
+112MO C  Produced by PB(238U,F), E=75O MEV/a (1994Be24).                        
+                                     ! should be digit zero, not letter O.
+
+
+112SN    100MO(16O,4NG)                1988HA20,1986KA25         96NDS    199701
+   . . .
+112SN2CL (160,4n) mainly based on G(THETA) and GG(THETA) and band structure in  
+            ! should be letter O, not digit zero.
+
+
+113IN    113CD B- DECAY (7.7E+15 Y)    1996DA11,1970GR20         98NDS    199804
+   . . .
+113IN C  1996Da11: measured scintillation crystals of ^CDW04                    
+                                                          !
+   Should be letter O, not digit zero.
+
+
+114CD    113CD(N,G) E=2,24 KEV         1984MH01,1980SCZZ         02NDS    200301
+   . . .
+114CD  L 0.0       0 0+                                                         
+   DE=0.
+
+
+114TE    114I B+ DECAY (2.1 S+6.2 S)   1995ZIZZ                  02NDS    200301
+   . . .
+114TE  L     1949.6 4 (2,3+)                                                    
+114TE  E                0.5  1   0.02  0   6.37  16              0.5      1     
+   DIE=0.
+
+
+117TE    116SN(3HE,2NG)                1986LO14                  02NDS    200205
+   . . .
+117TE  L 326.0          3/2+                                                    
+117TE  G 326.0       75      12(M1+E2)   -1.3    +19                            
+   Error DMR.
+
+
+117XE    ADOPTED LEVELS, GAMMAS                                  02NDS    200205
+   . . .
+117XE  L     4111.515                                                          ?
+   . . .
+117XE  G 1137      1       100                                                  
+   Should be
+117XE  G 1137      1      100                                                   
+
+
+117XE    92MO(28SI,2PNG)                                         02NDS    200205
+   . . .
+117XE PN                                                                     5  
+   . . .
+117XE PN                                                                     5  
+   2 PN-records.
+
+
+118TC    ADOPTED LEVELS                                                   199712
+   . . .
+118TC C  Produced by PB(238U,F), E=75O MEV/a (1995CzZZ,1997Au04)                
+                                     ! should be digit zero, not letter O.
+
+
+118RH    ADOPTED LEVELS                                                   199704
+   . . .
+118RH C  Produced by PB(238U,F), E=75O MEV/a (1994Be24).                        
+                                     ! should be digit zero, not letter O.
+
+
+118SN    118SB EC DECAY (3.6 M)        1982KA09,1970HA08         95NDS    199509
+   . . .
+118SN  L     2327.6 52+                                                         
+118SN  E              0.0001 0   0.09  3   6.07  15             0.09      3     
+   DIB=0.
+
+
+121I     ADOPTED LEVELS, GAMMAS                                  00NDS    200005
+   . . .
+121I   L X         1                                                            
+   DE not empty.
+
+
+122XE    122TE(3HE,3NG),110PD(16O,4NG),1987HA03                  94NDS    199407
+122XE  H TYP=ERR$COM=FIXED FORMAT ERRORS JKT 1/97$                              
+122XE  H TYP=FUL$AUT=T. TAMURA$CIT=NDS 71,461 (1994)$CUT=1-Dec-1992$            
+122XE2   96ZR(30SI,4NG)                                                         
+   H-record between ID-records.
+
+
+122CS    ADOPTED LEVELS, GAMMAS                                  94NDS    199602
+   . . .
+122CS  L 0.0         1+                21.0 S    7                              
+   . . .
+122CS CL T$from 1993Al03. In 94NDS aADOPTED 21.0 S 7 from 1969Ch18.             
+   Should be
+122CS CL T$from 1993Al03. In 94NDS adopted 21.0 S 7 from 1969Ch18.              
+   . . .
+122CS  L 76        248-                3.70 M    11                          M2 
+   Should be M1.
+   . . .
+122CS  L 127.0       (5)-              0.36 S    2                           M1 
+   Should be M2.
+
+
+124BA    124LA EC DECAY                1992ID01                  97NDS    199705
+   . . .
+124BA  L      872.6 32+                                                         
+124BA  G 643.1     4  3.8    3 M1,E2                   0.006210                 
+                                                       ^^^^^^^&&
+   Error CC/DCC.
+
+
+125XE    125XE IT DECAY                1968WIZY,1968SC14         99NDS    199907
+   . . .
+125XE  N 0.602                 1.0                                              
+125XE PN                                                                     3  
+125XE CN NR        From intensity balance at 111-KEV level and CC.              
+   PN-record between N and CN records.
+
+
+126LA    126CE EC DECAY                1994ASZY,1988GEZR         02NDS    200301
+   . . .
+126LA C  1994ASZY: {+92}Mo({36}Ar,2pn) E=195 MEV, ON-LINE MASS SEPARATION;      
+                   ^^^^^^^^^^^^^^^^^^^
+                   not 126Ce.
+
+
+127I     126TE(3HE,D),(A,T)            1979SZ05                  96NDS    199601
+   . . .
+127I   L 1792      8                                   (0)      0.18            
+127I  CL S         av 0f 0.20 (A,T) and 0.15 (3HE,D)                            
+                      ! should be letter o, not digit zero.
+
+
+127XE    ADOPTED LEVELS, GAMMAS                                  96NDS    199601
+   . . .
+127XE  L    1704.4620(13/2-,17/2-)                                              
+   . . .
+127XE CL J$DJ=0,2 G to (9/2-,13/2-); DJ LE 1 G t0 (15/2-); no parity            
+                                                !
+   Should be letter o, not digit zero.
+
+
+127CS    127I(A,4NG)                   1980DR07                  96NDS    199601
+   . . .
+127CS C  1980Dr07: E(A)=43,45,47,51 MEV; G, GG-c0in, G(THETA), G(T),            
+                                                !
+   Should be letter o, not digit zero.
+
+
+129TE    129SB B- DECAY (17.7 M)       1987ST23                  96NDS    199605
+   . . .
+129TE3CG the data and decay scheme are significantly different from those 0f    
+                                                                          !
+   Should be letter o, not digit zero.
+
+
+129TE    128TE(T,D)                    1981SH02                  96NDS    199605
+   . . .
+129TE  L 542       5                                   2        .004, .002      
+129TE CL S         if 2d3/2 0R 2d5/2.                                           
+                            !
+   Should be letter o, not digit zero.
+
+
+129I     129TE B- DECAY (33.6 D)       1976MA35                  96NDS    199605
+   . . .
+129I   L     729.57 3(9/2)+                                                     
+   . . .
+129I   G 242.2      1 0.014   2 [E2]                   0.0816              DC   
+   Should be
+129I   G 242.2      1 0.014   2 [E2]                   0.0816               DC  
+
+
+129I     130TE(A,T)                    1979SZ05                  96NDS    199605
+         ^^^^^^^^^^
+         not 129I.
+
+
+129XE    COULOMB EXCITATION            1978PA09,1990NA18         96NDS    199605
+   . . .
+129XE C  1978Pa09: 129XE(A,A') E=8,10 MEV, 129XE(160,160') E=42 MEV, semi G,    
+                                                   !   !
+   Should be letter O, not digit zero.
+
+
+129CS    ADOPTED LEVELS, GAMMAS                                  96NDS    199605
+   . . .
+129CS  L 7000.7    16(43/2-)                                                F   
+   . . .
+129CS  G 1011       100        (E2)                                             
+   Should be
+129CS  G 1011        100       (E2)                                             
+
+
+130XE    130I B- DECAY (12.36 H)       1973HO25                  01NDS    200107
+   . . .
+130XE  G  749.02   14 0.012  5                                                  
+130XE  G  749.02   14 0.012   5                                                 
+   Doubling G-record.
+
+
+132SN    132IN B- DECAY (0.201 S)      1986BJ01                  92NDS    199203
+   Data set should be deleted.
+
+
+132BA    ADOPTED LEVELS, GAMMAS                                  92NDS    199410
+   . . .
+132BA  L  2027.01   4 4-                                                        
+   . . .
+132BA CL J         E1 G t0 3+, G from 6-                                        
+                         !
+   Should be letter o, not digit zero.
+
+
+133PR    ADOPTED LEVELS, GAMMAS                                  95NDS    199706
+   . . .
+133PR  L    1001.5821                                                           
+   . . .
+133PR  G  939.9    4    52    0                                                 
+   DRI=0.
+
+
+133SM    96RU(40CA,2NPG)               1991RE03                  95NDS    199510
+         ^^^^^^^^^^^^^^^
+         not 133Sm.
+   Data set should be deleted.
+
+
+134CS    ADOPTED LEVELS, GAMMAS                                  04NDS    200410
+   . . .
+134CS  L 684.504   5 (2,3)-                                                     
+   . . .
+134CS CL J$G t0 (2)+, G from 3+,4+ n-capture state                              
+              !
+   Should be letter o, not digit zero.
+
+
+134PR    (HI,XNG)                      1996PE01,2003RO09         04NDS    200410
+  .  .  .
+134PR  L   1204.3+Y17 (11+)                                                     
+  .  .  .
+134PR  G      306.3    1 58.0                                                   
+   Should be
+134PR  G      306.3 1    58.0                                                   
+
+
+135SM    ADOPTED LEVELS, GAMMAS                                  98NDS    199806
+  .  .  .
+135ND CG RI(H)$From 1995DE40                                                    
+   Should be
+135SM CG RI(H)$From 1995DE40                                                    
+
+
+136LA    128TE(11B,A2NG)               2001CY01                  02NDS    200206
+         ^^^^^^^^^^^^^^^
+         not 136La.
+
+
+137LA    137CE EC DECAY (34.4 H)       1975HE20                  94NDS    199411
+  .  .  .
+137LA  N 0.0565                0.0078  3                                        
+137LA PN 0.000441  20          1.0       1.0                                    
+                               ^^^^^^^^^^
+   32-41 positions should be blank.
+   PN-record inserted between N and CN-records.
+137LA CN NR        Sum of TI(254G) and IG for G's from 137LA levels             
+  .  .  .
+137LA PN                                                                     3  
+   2 PN-records.
+
+
+138ND    121SB(19F,4NG),94ZR(48CA,4NG) 1994DE11,2000PE01         03NDS    200305
+         ^^^^^^^^^^^^^^
+         not 138Nd.
+  .  .  .
+138ND C  1994DE11: 121SB(19F,4NG) E=75 MeV, measured G, GG using an array of    
+                   ^^^^^^^^^^^^^^
+                   not 138Nd.
+
+
+139LA    139LA(G,G')                   1972WO21,1970SZ01,1970MO3001NDS    200104
+  .  .  .
+139LA  L 6115      2 9/2(-)            0.068 EV  34                             
+  .  .  .
+139LA3cL |G{-0}{+2}/|G=0.015 eV and |G{0}/|G|>0.43 {I1}.                        
+   Should be
+139LA3cL |G{-0}{+2}/|G=0.015 eV and |G{-0}/|G|>0.43 {I1}.                       
+
+
+139SM    ADOPTED LEVELS, GAMMAS                                  01NDS    200104
+  .  .  .
+139SM  L    2290.1 4 17/2+                                                      
+  .  .  .
+139SM  G     1242.9 3.4      8  D                                               
+   Should be
+139SM  G     1242.9  3.4     8  D                                               
+  .  .  .
+139SM  L    4119.510 29/2                                                       
+   Should be
+139SM  L    4119.5 1029/2                                                       
+
+
+139SM    110PD(34S,5NG),               1996RO04,1996BR33,1994VA1501NDS    200104
+139SM2   62NI(81BR,P3NG),                                                       
+139SM  H TYP=FUL$AUT=T. W. BURROWS$CIT=NDS 92, 623 (2001)$CUT=9-Feb-2001$       
+139SM3   114CD(29SI,4NG)                                                        
+   H-record between ID-records.
+
+
+142CE    142LA B- DECAY                1982MI01,1983WO09,1971LA0400NDS    200003
+  .  .  .
+142CE  L    1536.2  22+                                                         
+142CE  G 894.9      417.6     3M1+E2     -0.63   10    0.00385                  
+  .  .  .
+142CE CG MR$-0.10 3 (1983Wo09). 0thers: -0.11 +2-3 (1982Mi01), see 1977CoZO,    
+                                !
+   Should be letter O, not digit zero.
+
+
+142CE    COULOMB EXCITATION            1989SP07,1970EN01,1963HA2000NDS    200003
+  .  .  .
+142CE  L 1536        2+                0.8 PS    LT                             
+  .  .  .
+142CE CL BE2       BE2(640 t0 1536)=0.16 4, <0.008 (1988Be08)                   
+                            !
+   Should be letter o, not digit zero.
+
+
+143PM    ADOPTED LEVELS, GAMMAS                                  01NDS    200201
+  .  .  .
+143PM  L     8072.7 545/2+                                                  B   
+  .  .  .
+143PM  G   1303.5   2    100.0                                                  
+   Should be
+143PM  G   1303.5   2   100.0                                                   
+
+
+143TB    ADOPTED LEVELS, GAMMAS                                  01NDS    200201
+  .  .  .
+143TB  L 0.0         (11/2-)           12 S      1                          B   
+  .  .  .
+143TB  L 0+X                           21 S      LT                            ?
+  .  .  .
+143TB PN                                                                     6  
+   PN-record after L-records.
+
+
+145EU    143SM(P,3NG),(D,NG),(T,2NG)   1986RUZX                  93NDS    199305
+         ^^^^^^^^^^^^
+         not 145Eu.
+
+
+145GD    144SM(3HE,2NG)                1983BA10,1982PA04         ENSDF    200103
+  .  .  .
+145GD  L 3357.1      19/2+                                                      
+  .  .  .
+145GD  G 924.7      50        4M1                                               
+   Possible
+145GD  G 924.7       50       4M1                                               
+
+
+145ER    146TM P DECAY (72 MS)         1993LI18                           199801
+  .  .  .
+145ER C  Source produced by 92MO(58NI,2P2N) E=287 MEV. Recoil mass separator.   
+                            ^^^^^^^^^^^^^^^
+                            not 146Tm.
+
+
+145ER    146TM P DECAY (235 MS)        1993LI18                           199801
+  .  .  .
+145ER C  Source produced by 92MO(58NI,2P2N) E=287 MEV. Recoil mass separator.   
+                            ^^^^^^^^^^^^^^^
+                            not 146Tm.
+
+
+146SM    ADOPTED LEVELS, GAMMAS                                  97NDS    199712
+  .  .  .
+146SM  L    3517.32 33+                                                         
+  .  .  .
+146SM  G 2137.08    4     100 3E1(+M2)                                          
+146SM CG MR$MR GE -0.18 LE +2.O                                                 
+                              !
+   Should be digit zero, not letter O.
+
+
+146SM    146EU EC DECAY                1995VA40,1992AD04,1988SA0697NDS    199712
+  .  .  .
+146SM  L    3517.38 33+                                                         
+  .  .  .
+146SM  G 2137.08    40.120    3E1(+M2)                                          
+146SM CG M$d(+Q) with MR GE -0.18 LE +2.O (1992Ad04). Mult=E1(+M2) from decay   
+                                        !
+   Should be digit zero, not letter O.
+
+
+148SM    147SM(N,G) E=0.1-10 KEV       1970BU19                  00NDS    200004
+  .  .  .
+148SM  L SN+X      182+,3,4,5+                                                  
+   DE not empty.
+
+
+149CE    ADOPTED LEVELS, GAMMAS                                  04NDS    200406
+  .  .  .
+149CE  L     133.48 7 (3/2+)            0.60 NS  10                         D   
+  .  .  .
+149CE  G 133.5     1  100    3  [E1]                      0.110                 
+                                                       ^^^^^^^&&
+   Error CC/DCC.
+
+
+149SM    COULOMB EXCITATION            1976GA10                  04NDS    200406
+  .  .  .
+149SM C  1976Ga10: (160,160') E=38-48 MEV. (A,A') E=6-11 MEV. G, GG,            
+                      !   !
+   Should be letter O, not digit zero.
+
+
+149EU    ADOPTED LEVELS, GAMMAS                                  04NDS    200406
+  .  .  .
+149EU  L 5607.8    5  (39/2)                                                    
+  .  .  .
+149EU CL J$DJ=(2) G t0 (35/2)-                                                  
+                     !
+   Should be letter o, not digit zero.
+
+
+149GD    124SN(30SI,5NG)               1991FL02,1995FL01,1998BY0204NDS    200406
+  .  .  .
+149GD c  1980Vr01: {+142}Nd({+16}O,n2|a) E=126-146 MeV; {+139}La({+16}O,5pn)    
+                                                        ^^^^^^^^^^^^^^^^^^^^
+                                                        not 149Gd.
+
+
+150ND    150ND(E,E')                   1993SA06                  95NDS    199510
+  .  .  .
+150ND  L 1886      0 4+                                                         
+   DE=0.
+
+
+150SM    ADOPTED LEVELS, GAMMAS                                  95NDS    199604
+  .  .  .
+150SM5CL transitions to and from odd-spin odd-parity members of the 0ctupole    
+                                                                    !
+   Should be letter o, not digit zero.
+
+
+150GD    ADOPTED LEVELS, GAMMAS                                  95NDS    199604
+  .  .  .
+150GD  L    2080.61 9(2,3,4)+                                                   
+  .  .  .
+150GD  G 650.33     0   75      (E2)                                            
+   DE=0.
+
+
+150GD    150TB EC DECAY (3.48 H)       1977HA31,1987HEZH         95NDS    199604
+  .  .  .
+150GD  L 2080.2    3 (2+,3+,4+)                                                 
+  .  .  .
+150GD  G 650.33     0.3         (E2)                                            
+   Should be
+150GD  G 650.33      0.3        (E2)                                            
+
+
+150GD    (HI,XNG):SD                   1999ERZZ,1993BE37,1991FA07         199908
+  .  .  .
+150Gd d  1998ErZY: Thesis by Erturk, Liverpool (June 1998)                      
+   Should be
+150GD d  1998ErZY: Thesis by Erturk, Liverpool (June 1998)                      
+
+
+150DY    144SM(12C,4NG)                1979HA29                  95NDS    199510
+         ^^^^^^^^^^^^^^
+         not 150Dy.
+
+
+150YB    151LU P DECAY (90 MS)         1993SE04,1982HO04         95NDS,A15199706
+  .  .  .
+150YB  L  0.0         0+                                                        
+150YB   P  1233    3                                                            
+  .  .  .
+150YB C PIdentified as L(p)=5 transition (1993Se04,1982Ho04)                    
+   Should be
+150YB C P$Identified as L(p)=5 transition (1993Se04,1982Ho04)                   
+
+
+151PM    150ND(A,T)                    1972BU22                  97NDS    199703
+  .  .  .
+151PM CL L         From ratios of SIGMA(45 DEG) in (3HE,D) to SIGMA(6O DEG)     
+                                                                     !
+   Should be letter o, not digit zero.
+
+
+152SM    150ND(A,2NG)                  1982KO03                  96NDS    199701
+  .  .  .
+152SM  L 2388.6       (9-)                                                  I   
+  .  .  .
+152SM  G 331.3      11.4     LE                                             &   
+  .  .  .
+152SM CG RI,M      f0r the 331.3G doublet+impurity: RI=1.96 7;                  
+                    !
+   Should be letter o, not digit zero.
+
+
+153DY    152GD(A,3NG), 154GD(A,5NG),   1979JA14,1977KL04,1977BA7798NDS    199804
+153DY  H TYP=FUL$AUT=R. G. Helmer$CIT=NDS 83, 285 (1998)$CUT=1-Nov-1997$        
+153DY2   155GD(A,6NG), 144ND(12C,3NG)                                           
+   H-record between ID-records.
+
+
+154EU    154SM(3HE,P2NG),(D,2NG),(P,NG)1988KA01,1980BE61         98NDS    199812
+  .  .  .
+154EU C  1980BE61: 154SM(d,2GN) with E(D)=13.5 MeV and (P,NG) with E(P)=6.7     
+   Should be
+154EU C  1980BE61: 154SM(d,2NG) with E(D)=13.5 MeV and (P,NG) with E(P)=6.7     
+
+
+154GD    ADOPTED LEVELS, GAMMAS                                  98NDS    199812
+  .  .  .
+154GD3CL From the 153EU(t,D) and other single-nucleon-transfer                  
+                  ^^^^^^^^^^
+                  not 154Gd.
+
+
+154HO    ADOPTED LEVELS, GAMMAS                                  98NDS    199812
+  .  .  .
+154HO  L  0+X      8    8+             3.10 M    14                             
+   DE not empty.
+
+
+155TB    153EU(A,2NG),155GD(D,2NG),    1971WI24                  05NDS    200501
+155TB  H TYP=FUL$AUT=C. W. REICH$CIT=NDS 71,709 (1994)$CUT=1-Mar-1994$          
+155TB  H TYP=FUL$AUT=C. W. REICH$CIT=NDS 104, 1 (2005)$CUT=1-Jun-2004$          
+155TB D  DATA SET UPDATED (AUG., 2003) BY CW REICH TO INCLUDE REVISED MR DATA   
+155TB2D   FROM THE 155DY EC DECAY DATA SET AND QUESTIONING PLACEMENT OF 1 G.    
+155TB C  153EU(A,2NG): enriched (98% 153EU) oxide target, 5 MG/CM2 thick.       
+155TB2C  EA=23,25,27 MEV. Measured EG, RI, GG coincidences, excitation          
+155TB3C  functions, angular distributions                                       
+155TB4C  (THETA=18 DEG,30 DEG,45 DEG,60 DEG,75 DEG,90 DEG) at EA=27 MEV.        
+155TB C  155GD(D,2NG),155GD(P,NG): enriched (92% 155GD) oxide target,           
+155TB2C  10 MG/CM2 thick. ED=13.5 MEV, EP=6.7 MEV. Measured EG, RI, and         
+155TB3C  (for (D,2N)) GG coincidences.                                          
+155TB CG           1973Wi02 use the relative branching of the interband and     
+155TB2CG intraband (DJ=-2) transitions from a number of rotational-band         
+155TB3CG members to deduce BE1 values for the proposed E1 transitions           
+155TB4CG (this assumes that the transition probabilities of these intraband     
+155TB5CG transitions can be accurately given by the expressions for rotational  
+155TB6CG E2's). The deduced BE1 values appear reasonable, which lends           
+155TB7CG support (albeit weak) to the proposed JPI assignments.                 
+155TB CG E         Mean uncertainties range from 0.1 to 0.4 KEV, depending on   
+155TB2CG the number of counts in the peak and the complexity of the spectrum.   
+155TB CG E(W)      G SHOWN UNPLACED IN 1971Wi24. EVALUATOR HAS PLACED IT        
+155TB2CG  BASED ON THE LEVEL-SCHEME AND G DEEXCITATION PATTERN OBSERVED IN      
+155TB3CG  (HI,XNG).                                                             
+155TB CG RI        Listed values are those measured following the (A,2N)        
+155TB2CG reaction at EA=27 MEV and at an angle of AP 125 DEG with respect to    
+155TB3CG the beam axis. Ratios of the RI values from the other reactions to     
+155TB4CG these values are given in 1971Wi24.                                    
+155TB CG RI        1971Wi24 report that the DRI values range from 10% for the   
+155TB2CG stronger transitions to 30% for the weaker ones                        
+155TB CG RI(D)     From branching ratios measured in the (P,N) reaction         
+155TB CG RI(E)     From branching ratios measured in the (D,2N) reaction        
+155TB CG RI(F)     Deduced from GG coincidence measurements                     
+155TB CG RI(G)     May include some contribution from a reaction G from an      
+155TB2CG impurity in the target                                                 
+155TB CG M         Unless otherwise indicated, based on measured A2 values and  
+155TB2CG considerations of rotational-band structure. The existence of well     
+155TB3CG developed rotational bands makes it possible to supplement the         
+155TB4CG A2 data, which can establish only that the transition is stretched     
+155TB5CG quadrupole or stretched dipole, and to permit one to conclude that it  
+155TB6CG is, respectively, E2 (instead of M2) or (predominantly) E1 or          
+155TB7CG M1, depending on its location in the level scheme.                     
+155TB CG M(Y),MR(Y)$From internal-conversion-coefficient data from the 155DY EC 
+155TB2CG decay                                                                  
+155TB CL E         COMPUTED FROM A LEAST-SQUARES FIT TO THE LISTED G-RAY        
+155TB2CL  ENERGIES.                                                             
+155TB CL J         From adopted values. For some of the higher-spin members of  
+155TB2CL the well developed rotational bands, these assignments are to some     
+155TB3CL extent based on the existence of this band structure. They are also    
+155TB4CL supplemented by the identification of certain G transitions as being   
+155TB5CL stretched quadrupole or stretched dipole, from their measured          
+155TB6CL angular distributions (A2 coefficients only). This helps to establish  
+155TB7CL that the states involved have DJ=2 and DJ=1, respectively              
+155TB CL BAND(A)   MEMBER OF THE 3/2[411] BAND                                  
+155TB CL BAND(B)   MEMBER OF THE 5/2[532] BAND.                                 
+155TB2CL this band is strongly CORIOLIS mixed with other h11/2-related          
+155TB3CL NILSSON orbitals.                                                      
+155TB CL BAND(C)   MEMBER OF THE 5/2[413] BAND                                  
+155TB CL BAND(D)   MEMBER OF THE 7/2[523] BAND                                  
+155TB CL BAND(K)   PROBABLE 7/2[404] BANDHEAD                                   
+155TB PN                                                                     5  
+155TB2   155GD(P,NG)                                                            
+   Record between ID-records. Should be
+155TB    153EU(A,2NG),155GD(D,2NG),    1971WI24                  05NDS    200501
+155TB2   155GD(P,NG)                                                            
+155TB  H TYP=FUL$AUT=C. W. REICH$CIT=NDS 71,709 (1994)$CUT=1-Mar-1994$          
+155TB  H TYP=FUL$AUT=C. W. REICH$CIT=NDS 104, 1 (2005)$CUT=1-Jun-2004$          
+155TB D  DATA SET UPDATED (AUG., 2003) BY CW REICH TO INCLUDE REVISED MR DATA   
+155TB2D   FROM THE 155DY EC DECAY DATA SET AND QUESTIONING PLACEMENT OF 1 G.    
+155TB C  153EU(A,2NG): enriched (98% 153EU) oxide target, 5 MG/CM2 thick.       
+155TB2C  EA=23,25,27 MEV. Measured EG, RI, GG coincidences, excitation          
+155TB3C  functions, angular distributions                                       
+155TB4C  (THETA=18 DEG,30 DEG,45 DEG,60 DEG,75 DEG,90 DEG) at EA=27 MEV.        
+155TB C  155GD(D,2NG),155GD(P,NG): enriched (92% 155GD) oxide target,           
+155TB2C  10 MG/CM2 thick. ED=13.5 MEV, EP=6.7 MEV. Measured EG, RI, and         
+155TB3C  (for (D,2N)) GG coincidences.                                          
+155TB CG           1973Wi02 use the relative branching of the interband and     
+155TB2CG intraband (DJ=-2) transitions from a number of rotational-band         
+155TB3CG members to deduce BE1 values for the proposed E1 transitions           
+155TB4CG (this assumes that the transition probabilities of these intraband     
+155TB5CG transitions can be accurately given by the expressions for rotational  
+155TB6CG E2's). The deduced BE1 values appear reasonable, which lends           
+155TB7CG support (albeit weak) to the proposed JPI assignments.                 
+155TB CG E         Mean uncertainties range from 0.1 to 0.4 KEV, depending on   
+155TB2CG the number of counts in the peak and the complexity of the spectrum.   
+155TB CG E(W)      G SHOWN UNPLACED IN 1971Wi24. EVALUATOR HAS PLACED IT        
+155TB2CG  BASED ON THE LEVEL-SCHEME AND G DEEXCITATION PATTERN OBSERVED IN      
+155TB3CG  (HI,XNG).                                                             
+155TB CG RI        Listed values are those measured following the (A,2N)        
+155TB2CG reaction at EA=27 MEV and at an angle of AP 125 DEG with respect to    
+155TB3CG the beam axis. Ratios of the RI values from the other reactions to     
+155TB4CG these values are given in 1971Wi24.                                    
+155TB CG RI        1971Wi24 report that the DRI values range from 10% for the   
+155TB2CG stronger transitions to 30% for the weaker ones                        
+155TB CG RI(D)     From branching ratios measured in the (P,N) reaction         
+155TB CG RI(E)     From branching ratios measured in the (D,2N) reaction        
+155TB CG RI(F)     Deduced from GG coincidence measurements                     
+155TB CG RI(G)     May include some contribution from a reaction G from an      
+155TB2CG impurity in the target                                                 
+155TB CG M         Unless otherwise indicated, based on measured A2 values and  
+155TB2CG considerations of rotational-band structure. The existence of well     
+155TB3CG developed rotational bands makes it possible to supplement the         
+155TB4CG A2 data, which can establish only that the transition is stretched     
+155TB5CG quadrupole or stretched dipole, and to permit one to conclude that it  
+155TB6CG is, respectively, E2 (instead of M2) or (predominantly) E1 or          
+155TB7CG M1, depending on its location in the level scheme.                     
+155TB CG M(Y),MR(Y)$From internal-conversion-coefficient data from the 155DY EC 
+155TB2CG decay                                                                  
+155TB CL E         COMPUTED FROM A LEAST-SQUARES FIT TO THE LISTED G-RAY        
+155TB2CL  ENERGIES.                                                             
+155TB CL J         From adopted values. For some of the higher-spin members of  
+155TB2CL the well developed rotational bands, these assignments are to some     
+155TB3CL extent based on the existence of this band structure. They are also    
+155TB4CL supplemented by the identification of certain G transitions as being   
+155TB5CL stretched quadrupole or stretched dipole, from their measured          
+155TB6CL angular distributions (A2 coefficients only). This helps to establish  
+155TB7CL that the states involved have DJ=2 and DJ=1, respectively              
+155TB CL BAND(A)   MEMBER OF THE 3/2[411] BAND                                  
+155TB CL BAND(B)   MEMBER OF THE 5/2[532] BAND.                                 
+155TB2CL this band is strongly CORIOLIS mixed with other h11/2-related          
+155TB3CL NILSSON orbitals.                                                      
+155TB CL BAND(C)   MEMBER OF THE 5/2[413] BAND                                  
+155TB CL BAND(D)   MEMBER OF THE 7/2[523] BAND                                  
+155TB CL BAND(K)   PROBABLE 7/2[404] BANDHEAD                                   
+155TB PN                                                                     5  
+
+
+155DY    (HI,XNG)                      1994VL02,1996FI08         05NDS    200501
+  .  .  .
+155DY D DATA SET RE-DONE (SEPTEMBER, 2003) BY CW REICH TO INCORPORATE THE       
+   Should be
+155DY D DATA SET RE-DONE (SEPTEMBER, 2003) BY CW REICH TO INCORPORATE THE       
+
+
+155ER    155TM EC DECAY (21.6 S)       1991TO08,1977AG01         05NDS    200501
+  .  .  .
+155ER D DATA SET UPDATED (OCTOBER, 2003) BY CW REICH TO INCLUDE A NEW QP VALUE, 
+155ER2D NEW NR VALUE, REVISED JPI VALUE FOR THE 226 LEVEL AND NEW COMMENTS.     
+   Should be
+155ER D  DATA SET UPDATED (OCTOBER, 2003) BY CW REICH TO INCLUDE A NEW QP VALUE,
+155ER2D  NEW NR VALUE, REVISED JPI VALUE FOR THE 226 LEVEL AND NEW COMMENTS.    
+
+
+156EU    153EU(3N,G)                   1991BA06                  03NDS    200308
+  .  .  .
+156EU D DATA SET MODIFIED (FEB.,2001) BY CW REICH. SOME COMMENTS MODIFIED, SOME 
+   Should be
+156EU D  DATA SET MODIFIED (FEB.,2001) BY CW REICH. SOME COMMENTS MODIFIED, SOME
+
+
+156TB    150ND(11B,5NG),124SN(36S,P3NG)1982BE46,1999HA04         03NDS    200308
+  .  .  .
+156TB D DATA SET UPDATED (MAY, 2002) BY CW REICH TO INCLUDE DATA FROM THE       
+   Should be
+156TB D  DATA SET UPDATED (MAY, 2002) BY CW REICH TO INCLUDE DATA FROM THE      
+
+
+156HO    156ER EC DECAY                1999KAZV,2002KAZL         03NDS    200308
+  .  .  .
+156HO D DATA SET COMPLETELY RE-DONE (JUNE, 2002) BY CW REICH.                   
+   Should be
+156HO D  DATA SET COMPLETELY RE-DONE (JUNE, 2002) BY CW REICH.                  
+
+
+156YB    ADOPTED LEVELS, GAMMAS                                  03NDS    200308
+  .  .  .
+156YB D DATA SET UPDATED (OCTOBER, 2002) TO INCLUDE NEW ALPHA DATA AND          
+   Should be
+156YB D  DATA SET UPDATED (OCTOBER, 2002) TO INCLUDE NEW ALPHA DATA AND         
+
+
+156TA    ADOPTED LEVELS                                          03NDS    200308
+  .  .  .
+156TA D DATA SET REDONE (NOVEMBER, 2002) BY CW REICH TO ADD NEW DATA AND TO     
+   Should be
+156TA D  DATA SET REDONE (NOVEMBER, 2002) BY CW REICH TO ADD NEW DATA AND TO    
+
+
+157GD    ADOPTED LEVELS, GAMMAS                                  04NDS    200501
+  .  .  .
+157GD  L   54.533  6   5/2-                130 PS 8                         A   
+  .  .  .
+157GD  G    54.548 8  100      M1+E2       0.19   (4)    12.4                   
+   Should be
+157GD  G    54.548 8  100      M1+E2       0.19    4     12.4                   
+
+
+157GD    157EU B- DECAY                1986GRZS                  04NDS    200501
+  .  .  .
+157GD  L   54.535  6   5/2-                                                 A   
+  .  .  .
+157GD  G    54.548 8   34    3 M1+E2       0.19  (4)     12.4                C  
+   Should be
+157GD  G    54.548 8   34    3 M1+E2       0.19   4      12.4                C  
+
+
+157GD    COULOMB EXCITATION            1992KU15,2003HA01,1986TA0204NDS    200501
+  .  .  .
+157GD  L    54.539 10 5/2-             0.21 NS   8                          A   
+  .  .  .
+157GD  G    54.54  1  100      M1+E2       0.19  (4)     12.40                  
+   Should be
+157GD  G    54.54  1  100      M1+E2       0.19   4      12.40                  
+
+
+157HF    (HI,XNG)                      1995SA31                  04NDS    200501
+  .  .  .
+157HF2c       0f 30 MeV above the Coulomb barrier; measured |g singles,         
+              !
+   Should be letter o, not digit zero.
+
+
+158TB    159TB(3HE,A)                  1989BU03                  04NDS    200403
+  .  .  .
+158TB  L   -3         3-                                           2            
+   Error E.
+
+
+158W     162OS A DECAY                 1996BI01,2000MA95,1989HO1204NDS    200403
+  .  .  .
+158OS2cP      (1996Bi07), and 1.9 ms {I2} (2000Ma95).   The value in            
+   Should be
+162OS2cP      (1996Bi07), and 1.9 ms {I2} (2000Ma95).   The value in            
+
+
+159YB    (HI,XNG)                      1986COZR,1987BY04,1988FE0103NDS    200307
+  .  .  .
+159YB C  1986WeZU: priv. comm.; {+116}Cd{+48}(Ti,3n|g) at 205 MeV, report       
+                                ^^^^^^^^^^^^^^^^^^^^^^
+   Should be
+159YB C  1986WeZU: priv. comm.; {+116}Cd({+48}Ti,5n|g) at 205 MeV, report       
+
+
+159LU    163TA A DECAY                 1986RU05,1992HA10,1985LI1403NDS    200307
+  .  .  .
+159TA2CP      1995Au04 mass evaluation to allow for the possibility that        
+   Should be
+163TA2CP      1995Au04 mass evaluation to allow for the possibility that        
+
+
+159HF    ADOPTED LEVELS, GAMMAS                                  03NDS    200307
+  .  .  .
+159HF  L     98.87 10 9/2-                                                  A   
+159HF  G     98.87 10   100  0 M1                                               
+   DRI=0.
+  .  .  .
+159HF  L    4878.6 12 41/2-                                                 A   
+159HF  G    601.99 12   100  0 E2                                               
+   DRI=0.
+
+
+159TA    163RE A DECAY (214 MS)        1997DA07,1996PA01,1981HO1003NDS    200307
+  .  .  .
+159RE2CP      {I40} (1979Ho10).                                                 
+   Should be
+163RE2CP      {I40} (1979Ho10).                                                 
+
+
+160GD    160GD(N,N'G)                  1989BE48,1983BE72         96NDS    199701
+  .  .  .
+160GD9C  while the EG values of the unplaced gammas are those 0f 1983Be72.      
+                                                              !
+   Should be letter o, not digit zero.
+
+
+161DY    ADOPTED LEVELS, GAMMAS                                  00NDS    200010
+  .  .  .
+161DY D DATA SET REVISED (SEPT.-NOV.,1999) BY CW REICH TO INCLUDE NEW Q VALUES, 
+   Should be
+161DY D  DATA SET REVISED (SEPT.-NOV.,1999) BY CW REICH TO INCLUDE NEW Q VALUES,
+
+
+161DY    161DY(G,G')                   1995MA69                  00NDS    200010
+  .  .  .
+161DY  L  3644        3/2,5/2,7/2                                  9.9   12     
+   Should be
+161DY  L  3644        3/2,5/2,7/2                                   9.9   12    
+
+
+161W     ADOPTED LEVELS                                          00NDS    200010
+  .  .  .
+161W  D DATA SET UPGRADED (JUNE, 2000) BY CW REICH                              
+   Should be
+161W  D  DATA SET UPGRADED (JUNE, 2000) BY CW REICH                             
+
+
+161W     165OS A DECAY                 1981HO10,1978CA11,1996PA0100NDS    200010
+  .  .  .
+161W  D DATA SET UPGRADED (JUNE, 2000) BY CW REICH                              
+   Should be
+161W  D  DATA SET UPGRADED (JUNE, 2000) BY CW REICH                             
+
+
+162RE    166IR A DECAY (15.1 MS)       1997DA07,1996PA01         99NDS    199909
+  .  .  .
+162RE2C  ALPHA spectrum 0f recoil nuclides was measured with a SI detector      
+                        !
+   Should be letter o, not digit zero.
+
+
+162OS    166PT A DECAY (0.3 MS)        1996BI07                  99NDS    199909
+  .  .  .
+162OS D  NEW DATA SET, PREPARED (N0VEMBER, 1997) BY CW REICH                    
+                                  !
+   Should be letter o, not digit zero.
+
+
+164DY    ADOPTED LEVELS, GAMMAS                                  NDS01    200107
+  .  .  .
+164DY  L 916.00    4 4+                                                     B   
+  .  .  .
+164DY  G 673.66    10100     2 M1+E2     +0.87    +13-110.0113 5                
+   Possible
+164DY  G 673.66    10100     2 M1+E2     +0.87   +13-11 0.0113 5                
+  .  .  .
+164DY  L 1587.82   11(4)-                                                   E   
+  .  .  .
+164DY CL J$E2 G t0 4-; (E2) G to 2-                                             
+                 !
+   Should be letter o, not digit zero.
+
+
+164DY    164TB B- DECAY (3.0 M)        1971GU18                  NDS01    200107
+  .  .  .
+164DY  L 916.00    104+                                                         
+  .  .  .
+164DY  G 673.67    2044      4 M1+E2      +0.87   +13-110.0113 5                
+   Possible
+164DY  G 673.67    2044      4 M1+E2      +0.87  +13-11 0.0113 5                
+
+
+164ER    COULOMB EXCITATION            1980YA03,1982RO07,1996BR09NDS01    200107
+  .  .  .
+164ER C  1965YO04: (160,16O'G) E=43.5 MEV. Measured SIGMA                       
+                      !
+   Should be letter O, not digit zero.
+
+
+164LU    164HF EC DECAY (111 S)        1989HI04                  01NDS    200206
+  .  .  .
+164LU2c and log| {Ift} values                                                   
+   Should be
+164LU2c  and log| {Ift} values                                                  
+
+
+164OS    165IR P DECAY (0.30 MS)       1997DA07                  NDS01    200107
+  .  .  .
+164OS  L  0.0           0+                                                      
+164OS   P 1707     7   100                                                      
+164OS C POnly one proton branch is reported.                                    
+   Should be
+164OS  L  0.0           0+                                                      
+164OS   P 1707     7   100                                                      
+164OS C P$Only one proton branch is reported.                                   
+
+
+165YB    (HI,XNG)                      1987BE07,1984SC23         92NDS    199203
+  .  .  .
+165YB5C  154SM(160,5NG) E=85-95 MEV (1979Ri06), 169TM(P,5NG) E=52 MEV (1971IsZV)
+                 !
+   Should be letter O, not digit zero.
+
+
+166ER    164DY(A,2NG)                  1985FI04                  92NDS    199211
+  .  .  .
+166ER  L 1075.2      5+                                                     B   
+  .  .  .
+166ER  G 810.3     1 15.6    16 (E2+M1)  -27     LT                        *C   
+   Should be
+166ER  G 810.3     1 15.6    16 (E2+M1)  -27     LT                         *C  
+
+
+166RE    ADOPTED LEVELS                                          92NDS    199211
+  .  .  .
+166RE  L 0                             2.8 S     3                              
+166RE2 L %A GE 8 LE 2                                                           
+   Range error. Should be
+166RE  L 0                             2.8 S     3                              
+166RE2 L %A LE 8 GE 2                                                           
+
+
+167YB    ADOPTED LEVELS, GAMMAS                                  00NDS    200008
+  .  .  .
+167YB CG RI(R)     See 166ER(A,NG) for alternative placement which could        
+   Should be
+167YB CG RI(R)     See 166ER(A,3NG) for alternative placement which could       
+
+
+169YB    ADOPTED LEVELS, GAMMAS                                  91NDS    199112
+  .  .  .
+169YB  L 191.214   2  5/2-             3.35 NS   15                         C   
+  .  .  .
+169YB  G 91.9737   12 2.92    6 M1+E2    -0.17   +37-34 4.41                A   
+169YBB G BM1W=1.81E-4 25$ BE2W=<1.6                                             
+   Should be
+169YB  G 91.9737   12 2.92    6 M1+E2    -0.17   +37-34 4.41                A   
+169YBB G BM1W=1.81E-4 25$ BE2W LE 1.6                                           
+
+
+170OS    144SM(29SI,3NG),              1988DR06                  02NDS    200211
+170OS2    115IN(58NI,P2NG),                                                     
+170OS  H TYP=FUL$AUT=CORAL M. BAGLIN$CIT=NDS 96, 611 (2002)$CUT=15-Aug-2002$    
+170OS3    112SN(60NI,2PG)                                                       
+   H-record between ID-records.
+
+
+172HF    172TA EC DECAY (36.8 M)       1973CA10                  95NDS    199509
+  .  .  .
+172HF  L   1534.4  4      4+                                                E  ?
+172HF  E                0.2  0    0.6  1   7.8   1                0.8     1     
+   DIB=0.
+  .  .  .
+172HF  L  1600.68   9     4+                                                    
+172HF  E                0.1  0    0.5  1   7.9   1                0.6     1     
+   DIB=0.
+
+
+172W     172RE EC DECAY (55 S)         1977BE66,1975ST02,1986SZ0695NDS    199509
+  .  .  .
+172W 4CG normalization factor 0f 0.17 4; but the intensities given by 1986Sz06  
+                              !
+   Should be letter o, not digit zero.
+
+
+174RE    159TB(20NE,5NG)               1988CHZQ,1989MCZT         99NDS    199908
+  .  .  .
+174RE C  1989McZT: E not given. Including: 139LA(40AR,5NG), 165HO(160,7NG),     
+                                                                    !
+   Should be letter O, not digit zero.
+
+
+174TA    ADOPTED LEVELS, GAMMAS                                  99NDS    199908
+  .  .  .
+174TA CG M         From 169GD(9BE,4NG) (1992Ho10)                               
+   Should be
+174TA CG M         From 160GD(9BE,4NG) (1992Ho10)                               
+
+
+175RE    161DY(19F,5NG)                1995BA51,1992KI06         04NDS    200410
+  .  .  .
+175RE  L     3190.718 33/2+                                                D    
+   Possible
+175RE  L     3190.718 33/2+                                                 D   
+
+
+176OS    ADOPTED LEVELS, GAMMAS                                  98NDS    199807
+  .  .  .
+176OS  L 863.6          2+                                                  Y   
+  .  .  .
+176OS  G   728.5      100     8 E0+E2+M1   11    +0-5   0.018  3            O   
+   Error DMR.
+  .  .  .
+176OS  L 1223.8         4+                                                  Y   
+  .  .  .
+176OS  G   828.4       100   10  M1+E2      +6   +0-4   0.007720            O   
+   Error DMR.
+  .  .  .
+176OS  L 1409.4         5+                                                  Y   
+  .  .  .
+176OS  G   1014.0      100    7  M1+E2    -22    +10-0 0.00486              O   
+   Error DMR.
+
+
+176OS    176IR EC DECAY                1994KI01                  98NDS    199807
+  .  .  .
+176OS  L 863.6          2+                                                  Y   
+  .  .  .
+176OS  G   728.5       40    3  E0+E2+M1   11    +0-5   0.018  3            H   
+   Error DMR.
+  .  .  .
+176OS  L 1223.8         4+                                                  Y   
+  .  .  .
+176OS  G   828.4       17.6  18  M1+E2      +6   +0-4   0.007720                
+   Error DMR.
+  .  .  .
+176OS  L 1409.4         5+                                                  Y   
+  .  .  .
+176OS  G   1014.0      11.8   8  M1+E2    -22    +10-0 0.00486                  
+   Error DMR.
+
+
+178HF    ADOPTED LEVELS, GAMMAS                                  94NDS    199408
+  .  .  .
+178HF  L    1496.42 52+                0.9 PS    2                          G   
+  .  .  .
+178HF CL J         GG(THETA) (1968Ni03); 1496G E2 t0 0+.                        
+                                                   !
+   Should be letter o, not digit zero.
+
+
+178HF    178TA EC DECAY (2.36 H)       1979HE11,1975WA24,1989KI2494NDS    199408
+  .  .  .
+178HF  L   1479.012168-                                                         
+  .  .  .
+178HF  G    331.613 9  33.15 20M1                        0.146                  
+178HF CG E         weighted average 0f 331.66 KEV 5 (1975Wa24) and 331.611 KEV 9
+                                    !
+   Should be letter o, not digit zero.
+
+
+179HF    ADOPTED LEVELS, GAMMAS                                  94NDS    199412
+  .  .  .
+179HF  L   1755.84 11  3/2-                                                     
+  .  .  .
+179HF CL J         1279G E2(+M1) to 5/2-; 1381G M1 t0 1/2-.                     
+                                                    !
+   Should be letter o, not digit zero.
+
+
+179OS    183PT A DECAY (6.5 M)         1966SI08                  94NDS    199412
+  .  .  .
+179OS3CN a factor of 3 (1963GR08). For ro=1.51, %|a<4E-3 if HF>2.               
+                                        !
+   Should be digit zero, not letter o.
+
+
+180TA    180HF B- DECAY (5.47 H)       1985KE02,1992KE04         03NDS    200403
+  .  .  .
+180HF  P 1141.57   3 8-                5.47 H    4              -854      3     
+   QP should be positive.
+
+
+180TA    179TA(A,T), (3HE,D)           1983WA01                  03NDS    200403
+   Should be
+180TA    179HF(A,T), (3HE,D)           1983WA01                  03NDS    200403
+
+
+180OS    ADOPTED LEVELS, GAMMAS                                  03NDS    200403
+  .  .  .
+180OS  L     830.9917  2+                                                   N   
+  .  .  .
+180OS  G      699.0 2   100   3 E0+M1+E2  -18    +9                             
+   Error DMR.
+  .  .  .
+180OS  L    1514.6017  4-                                                   J   
+  .  .  .
+180OS  G     1106.1 2     44  3  E1+M2    +0.17  +4-0   0.0022                  
+   Error DMR.
+
+
+180OS    180IR EC DECAY                1994Ki01,1992BO19,1973LAZC03NDS    200403
+  .  .  .
+180OS  L     831.0018    2+                                                 D   
+  .  .  .
+180OS  G     698.9 2   22.1  6 E0+M1+E2  -18     +9    0.0498 22            L   
+   Error DMR.
+  .  .  .
+180OS  L    1514.9821   4-                                                  A   
+  .  .  .
+180OS  G 1106.4    4   4.6   3  E1+M2    +0.17   +4-0                           
+   Error DMR.
+
+
+181OS    181IR EC DECAY                                          91NDS+92 199201
+  .  .  .
+181OS  L        0.0 0 1/2-                                                  A  S
+   DE=0.
+
+
+181OS    185PT A DECAY                 1991BI04                  91NDS+93 199601
+  .  .  .
+181OS CA $Assignment to 185PT(70.9 M) or 1815PT(33.0 M) is uncertain. If from   
+   Should be
+181OS CA $Assignment to 185PT(70.9 M) or 185mPT(33.0 M) is uncertain. If from   
+
+
+181OS    150ND(36S,4NG),167ER(18O,4NG)                           91NDS+92 199201
+         ^^^^^^^^^^^^^^
+         not 181Os.
+
+
+181PT    144ND(40AR,3NG)               1990DE03                  99NDS    199908
+  .  .  .
+181PT  L    278.30 257/2-                                                       
+  .  .  .
+181PT  G      198.6 2     2.1 8 Q                                           C   
+181PT cG M$dc0=0.8 {I2}                                                         
+             !
+   Should be letter o, not digit zero.
+
+
+181HG    185PB A DECAY                 1980SC09                  99NDS    199908
+  .  .  .
+181HG2cA on ro for {+180}Hg and {+182}Hg in 1998Ak04), Q(|a)=6626 {I12} (from   
+             !
+   Should be digit zero, not letter o.
+
+
+182W     182W(P,P')(POL P,P')(A,A')    1986OG02,1985LA15,1975LE2288NDS    198808
+   Should be
+182W     182W(P,P'),(POL P,P'),(A,A')  1986OG02,1985LA15,1975LE2288NDS    198808
+
+
+182W     COULOMB EXCITATION            1991WU05,1989KU04,1971MI0895NDS    199505
+  .  .  .
+182W  C  (160,160'G) 1971Mi08, E(16O)=45.5 MEV                                  
+            !   !
+   Should be letter O, not digit zero.
+
+
+182OS    168ER(18O,4NG),170ER(16O,4NG) 1982LI04,1982FA01         88NDS+95 199505
+  .  .  .
+182OS2C  for GS band (t0 16+) reported                                          
+                       !
+   Should be letter o, not digit zero.
+
+
+182PT    (HI,XNG)                      1995POZZ                  95NDS    199505
+  .  .  .
+182OS D  1994WaZZ= BULLETIN OF A.P.S. VOL. 39, P1419, DD4 (1994)                
+   Should be
+182PT D  1994WaZZ= BULLETIN OF A.P.S. VOL. 39, P1419, DD4 (1994)                
+
+
+182AU    182HG EC DECAY                1970FIZZ,1974CA28         88NDS+95 199505
+  .  .  .
+182HG  P 0.0          0+                 10.83 S 6                 4780   SY    
+182HG D    T1/2 FROM 1993Wa03                                                   
+   Should be
+182HG  P 0.0          0+                 10.83 S 6                 4780   SY    
+182HG DP   T1/2 FROM 1993Wa03                                                   
+
+
+183RE    184W(3HE,D),(4HE,T)           1971LU01                           199107
+         ^^^^^^^^^^^ ^^^^^^^
+         not 183Re.  not 183Re.
+
+
+187OS    188OS(D,T),(T,A)              1973MO04,1973TH04,1973KLZZ91NDS    199102
+         ^^^^^      ^^^^^
+                    not 187Os.
+
+
+187AU    ADOPTED LEVELS, GAMMAS                                  91NDS    199102
+  .  .  .
+187AU  L     1149.2 3  +                                                        
+  .  .  .
+187AU CL J$E2+M1 to 71O level                                                   
+                      !
+   Should be digit zero, not letter O.
+
+
+188OS    COULOMB EXCITATION            1996WU07,2001WU03,1985ST0502NDS    200204
+  .  .  .
+188OS C  1966AS03: (160,160') E AP 36 MEV. Measured T1/2(level) by recoil method
+                      !   !
+   Should be letter O, not digit zero.
+
+
+188HG    188TL EC DECAY (71 S)         1984CO17,1976BO04         02NDS    200204
+  .  .  .
+188HG  L 1207.9    1  4+                                                        
+188HG  E                 4   1     2   0   6.8                    6       1    ?
+   DIE=0.
+  .  .  .
+188HG  L 1455.2    1  3+                                                        
+188HG  E                 5   1     2   0   6.6                    7       1     
+   DIE=0.
+  .  .  .
+188HG  L 1777.2    1  6+                                                        
+188HG  E                 6   1     3   0   6.4                   9        1     
+   DIE=0.
+  .  .  .
+188HG  L 2249.9    5                                                        D  ?
+188HG  E                0.3  1    0.2  0   7.5                   0.5      1    ?
+   DIE=0.
+  .  .  .
+188HG  L 2274.2    5                                                        D  ?
+188HG  E                0.5  1    0.4  0   7.3                   0.9      1    ?
+   DIE=0.
+
+
+191IR    191IR(G,G')                   1967SC25                  95NDS    199506
+  .  .  .
+191IR  L 624                           8 PS      GT             <1.5E-5         
+   Should be
+191IR  L 624                           8 PS      GT             1.5E-5    LT    
+  .  .  .
+191IR  L 659                           0.05 FS   GT             <1.9E-3         
+   Should be
+191IR  L 659                           0.05 FS   GT             1.9E-3    LT    
+
+
+192IR    191IR(D,P)                    1994GA05,1991KE10         98NDS    199809
+  .  .  .
+192IR  L 367.5      6                                  1       0.054      2     
+   Should be
+192IR  L 367.5      6                                  1        0.054     2     
+  .  .  .
+192IR  L 390.3      5                                  1,3     0.024,0.165      
+   Should be
+192IR  L 390.3      5                                  1,3      .024,0.165      
+
+
+192PT    192AU EC DECAY                1966NY01,1970PL09,1972FI1298NDS    199809
+  .  .  .
+192PT  L 1439.28   7  (1+)                                                      
+192PT  E               0.01  0    0.7  3   8.44  19             0.7       3    ?
+   DIB=0.
+
+
+192TL    196BI A DECAY: LOW SPIN       1991VA04                  98NDS    199809
+  .  .  .
+192TL CA HF        If ro=1.47 3, based on R0(192PB)=1.512 4 (this evaluation)   
+                       !
+   Should be digit zero, not letter o.
+
+
+192TL    196BI A DECAY: HIGH SPIN      1991VA04                  98NDS    199809
+  .  .  .
+192TL CA HF        If ro=1.47 3, based on R0(192PB)=1.512 4 (this evaluation)   
+                       !
+   Should be digit zero, not letter o.
+
+
+195PT    195IR B- DECAY (2.5 H)        1973JA10                  99NDS    199905
+  .  .  .
+195PT C  Sources produced by 196PT(N,P) (1954Bu02,1968Ja06), 198PT(P,A)         
+                             ^^^^^^^^^^
+                             not 195Ir.

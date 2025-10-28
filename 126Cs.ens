@@ -1,0 +1,822 @@
+126CS    ADOPTED LEVELS, GAMMAS                                  22NDS    202205
+126CS  H TYP=FUL$AUT=H. Iimura, J.Katakura, S. Ohya$CIT=NDS 180, 1 (2022)$      
+126CS2 H CUT=1-Oct-2021$                                                        
+126CS  Q -1681     168332    134440    10-696    12    2021WA16                 
+126CS c  Isotope shift: 1978Hu08, 1981Th06.                                     
+126CS c  Mass measurement: 1999Am05: Mass excess =-84349 {I12} keV.             
+126CS cG E,RI$Except where noted otherwise, the data are from {+126}Ba |e decay 
+126CS2cG up to the 1293-keV level and from (HI,xn|g) for the higher levels.     
+126CS cG E(X)      From (HI,xn|g)                                               
+126CS cG RI(V)     From (HI,xn|g)                                               
+126CS cG E(W)      Weak |g ray in {+126}Ba |e decay; no intensity data are      
+126CS2cG available.                                                             
+126CS cG E(Y)      Unresolved doublet in {+126}Ba |e decay.                     
+126CS cG E(M)      Multiply placed in {+126}Ba |e decay; upper limit of I|g is  
+126CSxcG given                                                                  
+126CS cG M         From |a(exp) in {+126}Ba |b{+-} decay                        
+126CS cL E         From a least-squares fit to the E(|g's).                     
+126CS cL J         From band structure, DCO, and |g-ray angular distribution    
+126CS2cL ratio in (HI,xn|g), unless otherwise noted.                            
+126CS cL T         From (HI,xn|g), unless otherwise noted                       
+126CS CL BAND(A)   Band 1, signature partner of band 2.                         
+126CS2cL Possible configuration is ((|p h{-11/2})(|n h{-11/2})).                
+126CS CL BAND(F)   Band 2, signature partner of band 1.                         
+126CS2cL Possible configuration is ((|p h{-11/2})(|n h{-11/2})).                
+126CS CL BAND(B)   Band 3, signature partner of band 4,                         
+126CS2cL configuration=((|p h{-11/2})(|n h{-11/2}))                             
+126CS CL BAND(C)   Band 4, signature partner of band 3,                         
+126CS2cL configuration=((|p h{-11/2})(|n h{-11/2}))                             
+126CS CL BAND(D)   Band 5, signature partner of band 6.                         
+126CS2cL Possible configuration is ((|p d{-5/2})(|n h{-11/2})).                 
+126CS CL BAND(E)   Band 6, signature partner of band 5.                         
+126CS2cL Possible configuration is ((|p d{-5/2})(|n h{-11/2})).                 
+126CS CL BAND(G)   Band 7, signature partner of band 8.                         
+126CS2cL Possible configuration is ((|p g{-7/2})(|n h{-11/2})).                 
+126CS CL BAND(H)   Band 8, signature partner of band 7.                         
+126CS2cL Possible configuration is ((|p g{-7/2})(|n h{-11/2})).                 
+126CS CL BAND(I)   Band 9, signature partner of band 10.                        
+126CS2cL Possible configuration is ((|p h{-11/2})(|n g{-7/2})).                 
+126CS CL BAND(J)   Band 10, signature partner of band 9.                        
+126CS2cL Possible configuration is ((|p h{-11/2})(|n g{-7/2})).                 
+126CS CL BAND(K)   Band 11. Possible configuration is                           
+126CS2cL ((|p h{-11/2})(|n d{-3/2})).                                           
+126CS CL BAND(L)   Band 12. Possible configuration is                           
+126CS2cL ((|p h{-11/2})(|n s{-1/2})).                                           
+126CS CL BAND(M)   Band 13                                                      
+126CS CL BAND(N)   Band 14, signature partner of band 15.                       
+126CS2cL Possible configuration is ((|p g{-9/2})(|n h{-11/2})).                 
+126CS CL BAND(O)   Band 15, signature partner of band 14.                       
+126CS2cL Possible configuration is ((|p g{-9/2})(|n h{-11/2})).                 
+126CS  XA126BA EC DECAY                                                         
+126CS  XB(HI,XNG)                                                               
+126CS PN                                                                     6  
+126CS  L 0.0         1+                1.643 M   17                             
+126CSX L XREF=AB                                                                
+126CS2 L %EC+%B+=100                                                            
+126CS3 L MOMM1=+0.776 4 $ MOME2=-0.64 3 $                                       
+126CS cL           |m from laser spectroscopy (1981Th06,2019StZV).              
+126CS2cL Others: 0.779 {I8} (1977Ek02).                                         
+126CS3cL Q from laser spectroscopy (1981Th06,2021StZZ).                         
+126CS cL J         J=1 in atomic beam magnetic resonance (1977Ek02).            
+126CS2cL log| {Ift}=5.5 from 0+ {+126}Ba g.s.                                   
+126CS cL T         from 1969Ch18. Other: 1.6 min {I2} (1954Ka33).               
+126CS  L 217.87    10                                                           
+126CSX L XREF=AB                                                                
+126CS cL J         J=0,1 from log| {Ift}=6.45 {I12} from 0+. 1993KoZP           
+126CS2cL reported J=1+ from |g(|q) and linear polarization in (HI,xn|g).        
+126CS3cL However, these assingments are inconsistent with |g from (4)- 272 keV  
+126CS4cL level and |g sequences from (9+) 760 keV level.                        
+126CS  G 217.9     1 100                                                     C  
+126CS  L     233.63 81+                                                         
+126CSX L XREF=A                                                                 
+126CS cL J         log| {Ift}=5.49 {I5} from 0+.                                
+126CS  G 233.6     1 100       M1,E2                    0.092  7             C  
+126CS  L 241.00     90-,1-,2-                                                   
+126CSX L XREF=AB                                                                
+126CS cL J         E1 to 1+.                                                    
+126CS  G 241.0     1 100       E1                       0.0194               C  
+126CS  L     257.60 80+,1+                                                      
+126CSX L XREF=A                                                                 
+126CS cL J         M1,E2 |g to 1+; log| {Ift}=6.45 {I17} from 0+.               
+126CS  G 257.6     1 100       M1,E2                    0.069  3             C  
+126CS  L 272.44    25(4)-              1 US      GE                         EM1 
+126CSX L XREF=B                                                                 
+126CS cL J         From Gallagher-Moszkowski coupling rule for expected Nilsson 
+126CS2cL orbitals (2003Li30). This assignment is supported from B(M1)/B(E2)     
+126CS3cL ratios of bands 5 and 6 measured in (HI,xn|g) (2007Wa09).              
+126CS  G 31.0                                                               X   
+126CS  G 55                                                                 X   
+126CS  L     281.20120,1,2,3+                                                   
+126CSX L XREF=A                                                                 
+126CS cL J         |g to 1+.                                                    
+126CS  G 281.2     2 100                                                     C  
+126CS  L     328.28130,1,2,3+                                                   
+126CSX L XREF=A                                                                 
+126CS cL J         |g to 1+.                                                    
+126CS  G 94.5      3 12      4                                               C  
+126CS  G 328.3     2 100     10                                              C  
+126CS  L 334.94    24                                                           
+126CSX L XREF=B                                                                 
+126CS  G 94.1                                                               X   
+126CS  L 345.8      7                                                           
+126CSX L XREF=B                                                                 
+126CS  G 128                                                                X   
+126CS  L 347.83    20                                                           
+126CSX L XREF=AB                                                                
+126CS  G 130.0     2 100     20                                              C  
+126CS  G 347.6                                                              Y  ?
+126CS  L 372.3      3(5)-                                                   D   
+126CSX L XREF=B                                                                 
+126CS  G 99.5        100                                                    X   
+126CS2 G FLAG=V                                                                 
+126CS  L 402.87    23                                                           
+126CSX L XREF=B                                                                 
+126CS  G 68.0                                                               X   
+126CS  G 162.1                                                              X   
+126CS  L 421.8      6                                                           
+126CSX L XREF=B                                                                 
+126CS  G 74                                                                 *   
+126CS2 G FLAG=X$                                                                
+126CS3 G FL=347.83                                                              
+126CS  G 204                                                                *   
+126CS2 G FLAG=X$                                                                
+126CS  L      454.7 3                                                           
+126CSX L XREF=A                                                                 
+126CS  G 106.9     2 100                                                     C  
+126CS  L     457.11160,1                                                        
+126CSX L XREF=A                                                                 
+126CS cL J         log| {Ift}=6.96 {I23} from 0+                                
+126CS  G 239.3     5 65      18                                              C  
+126CS  G 457.2     2 100     18                                                 
+126CS  L 457.4      3(5)-                                                   H   
+126CSX L XREF=B                                                                 
+126CS  G 85.2        33      LT                                             X   
+126CS2 G FLAG=V                                                                 
+126CS  G 184.8       100     22                                             X   
+126CS2 G FLAG=V                                                                 
+126CS  L 482.7      3(6)-                                                   E   
+126CSX L XREF=B                                                                 
+126CS  G 110.5        100    14                                             X   
+126CS2 G FLAG=V                                                                 
+126CS  G 210.4        10     LT                                             X   
+126CS2 G FLAG=V                                                                 
+126CS  L     489.41131,0-                                                       
+126CSX L XREF=A                                                                 
+126CS cL J         log| {Ift}=5.97 {I6} from 0+                                 
+126CS  G 208.2     2 18      4                                               C  
+126CS  G 231.7     3 31      4                                               C  
+126CS  G 489.3     2 100     10                                              C  
+126CS  L 495.8      6                                                           
+126CSX L XREF=B                                                                 
+126CS  G 74                                                                 *   
+126CS2 G FLAG=X$                                                                
+126CS  G 148                                                                X   
+126CS2 G FL=347.83                                                              
+126CS  G 150                                                                X   
+126CS  G 278                                                                X   
+126CS2 G FL=217.87                                                              
+126CS  L     508.5021                                                           
+126CSX L XREF=A                                                                 
+126CS  G 290.8     3 100     23                                              C  
+126CS  G 508.7                                                              W  ?
+126CS  L 513.3      6                                                           
+126CSX L XREF=B                                                                 
+126CS  G 165                                                                X   
+126CS  G 295                                                                X   
+126CS  L     538.88171,0-                                                       
+126CS cL J         log| {Ift}=6.30 {I9} from 0+                                 
+126CSX L XREF=A                                                                 
+126CS  G 538.9     2 100                                                     C  
+126CS  L     542.67110,1,2,3+                                                   
+126CS cL J         |g to 1+.                                                    
+126CSX L XREF=A                                                                 
+126CS  G 284.9     3 45      14                                              C  
+126CS  G 308.9     3 36      9                                                  
+126CS  G 542.5     2 100     18                                              C  
+126CS  L 552.9      3                                                           
+126CSX L XREF=B                                                                 
+126CS  G 150.1                                                              X   
+126CS  G 218.0                                                              X   
+126CS  L      574.7 9                                                           
+126CSX L XREF=B                                                                 
+126CS  G 153                                                                X   
+126CS  L 585.6      3(6)-                                                   G   
+126CSX L XREF=B                                                                 
+126CS  G 103.0                                                              X   
+126CS  G 128.1       72      9                                              X   
+126CS2 G FL=457.4$FLAG=V                                                        
+126CS  G 213.4       100     18                                             X   
+126CS2 G FLAG=V                                                                 
+126CS  L     589.4521                                                           
+126CSX L XREF=A                                                                 
+126CS  G 348.5     2 100                                                     C  
+126CS  L 595.0      8                  171 US    14                          M2 
+126CSX L XREF=B                                                                 
+126CS  G 112                                                                X   
+126CS  G 223                                                                X   
+126CS  L 625.7      6                                                           
+126CSX L XREF=B                                                                 
+126CS  G 51                                                                 X   
+126CS  G 112                                                                X   
+126CS  G 204                                                                *   
+126CS2 G FLAG=X$                                                                
+126CS  G 408                                                                X   
+126CS  L 634.7      3(6)-                                                   L   
+126CSX L XREF=B                                                                 
+126CS  G 82.0                                                               X   
+126CS  G 152.0       40      LT                                             X   
+126CS2 G FLAG=V                                                                 
+126CS  G 232.0                                                              X   
+126CS  G 262.3       100     20                                             X   
+126CS2 G FLAG=V                                                                 
+126CS  L 643.8      3(7)-                                                   D   
+126CSX L XREF=B                                                                 
+126CS  G 161.0       100     14                                             X   
+126CS2 G FLAG=V                                                                 
+126CS  G 271.5       14      5                                              X   
+126CS2 G FLAG=V                                                                 
+126CS  L 675.7      5                                                           
+126CSX L XREF=B                                                                 
+126CS  G 162                                                                X   
+126CS  G 180                                                                X   
+126CS  G 328                                                                X   
+126CS2 G FL=347.83                                                              
+126CS  G 330                                                                X   
+126CS  G 458                                                                X   
+126CS  L     681.84121+                                                         
+126CSX L XREF=A                                                                 
+126CS cL J         log| {Ift}=5.66 {I6} from 0+                                 
+126CS  G 192.5     5                                                        WC  
+126CS  G 353.5     3 12      3                                               C  
+126CS  G 400.6     2 26      4                                               C  
+126CS  G 441.0     5 9       2                                               C  
+126CS  G 681.8     2 100     10                                              C  
+126CS  L     709.53171,0-                                                       
+126CSX L XREF=A                                                                 
+126CS cL J         log| {Ift}=6.06 {I11} from 0+                                
+126CS  G 201.1     2 41      11                                                 
+126CS  G 475.5     3 22      5                                               C  
+126CS  G 709.8     3 100     22                                              C  
+126CS  L 710.7      9                                                           
+126CSX L XREF=B                                                                 
+126CS  G 35                                                                 X   
+126CS  G 85                                                                 X   
+126CS  L 725.2      3(6)-                                                   I   
+126CSX L XREF=B                                                                 
+126CS  G 90.4      1040      LT                                             X   
+126CS2 G FLAG=V                                                                 
+126CS  G 172.3                                                              X   
+126CS  G 242.5       30      LT                                             X   
+126CS2 G FLAG=V                                                                 
+126CS  G 352.5       100     14                                             X   
+126CS2 G FLAG=V                                                                 
+126CS  L 738.1      3(7)-                                                   H   
+126CSX L XREF=B                                                                 
+126CS  G 152.5       100     19                                             X   
+126CS2 G FLAG=V                                                                 
+126CS  G 255.5       25      6                                              X   
+126CS2 G FLAG=V                                                                 
+126CS  G 280.7       31      6                                              X   
+126CS2 G FLAG=V                                                                 
+126CS2 G FL=457.4                                                               
+126CS  L 759.7     13(9+)                                                   C   
+126CS cL J         From systematics of doubly odd Cs isotopes (1998Li36).       
+126CS2cL 1993Ko25 reported J=5+ from |g(|q) and DCO in (HI,xn|g).               
+126CSX L XREF=B                                                                 
+126CS  G 49                                                                 X   
+126CS2 G FL=710.7                                                               
+126CS  L      776.6 30,1                                                        
+126CSX L XREF=A                                                                 
+126CS cL J         log| {Ift}=6.84 {I15} from 0+                                
+126CS  G 535.4     3 100                                                     C  
+126CS  L     781.51220,1                                                        
+126CSX L XREF=A                                                                 
+126CS cL J         log| {Ift}=6.86 {I20} from 0+                                
+126CS  G 781.5     3 100                                                     C  
+126CS  L 797.2      3(8)-                                                   E   
+126CSX L XREF=B                                                                 
+126CS  G 153.4       100     16                                             X   
+126CS2 G FLAG=V                                                                 
+126CS  G 314.2       47      5                                              X   
+126CS2 G FLAG=V                                                                 
+126CS  L 811.8      3(7)-                                                   J   
+126CSX L XREF=B                                                                 
+126CS  G 86.5        100     20                                             X   
+126CS2 G FLAG=V                                                                 
+126CS  G 177.0                                                              X   
+126CS  G 439.5                                                              X   
+126CS  L 818.9      3(7)-                                                   K   
+126CSX L XREF=B                                                                 
+126CS  G 93.5        60      20                                             X   
+126CS2 G FLAG=V                                                                 
+126CS  G 184.5       100     20                                             X   
+126CS2 G FLAG=V                                                                 
+126CS  G 336.5                                                              X   
+126CS  L     841.92181,0-                                                       
+126CSX L XREF=A                                                                 
+126CS cL J         log| {Ift}=6.19 {I16} from 0+                                
+126CS  G 303.4     5 12      4                                               C  
+126CS  G 561.1     5 27      12                                              C  
+126CS  G 608.5     5 38      8                                              MC  
+126CS  G 841.6     5 100     19                                              C  
+126CS  L      876.9 31,0-                                                       
+126CSX L XREF=A                                                                 
+126CS cL J         log| {Ift}=6.22 {I9} from 0+                                 
+126CS  G 548.7     3 100     19                                              C  
+126CS  G 876.8     5 44      13                                                 
+126CS  L 900.4     14(10+)                                                  B   
+126CSX L XREF=B                                                                 
+126CS  G 140.8       100                                                    X   
+126CS2 G FLAG=V                                                                 
+126CS  L      903.5 31,0-                                                       
+126CSX L XREF=A                                                                 
+126CS cL J         log| {Ift}=6.32 {I9} from 0+                                 
+126CS  G 685.6     3 100     18                                              C  
+126CS  G 903.5     5 55      18                                                 
+126CS  L 915.7      3(8)-                                                   G   
+126CSX L XREF=B                                                                 
+126CS  G 177.5       100     13                                             X   
+126CS2 G FLAG=V                                                                 
+126CS  G 271.8                                                              X   
+126CS  G 330.0       50      13                                             X   
+126CS2 G FLAG=V                                                                 
+126CS  L 955.3      3(8)-                                                   I   
+126CSX L XREF=B                                                                 
+126CS  G 136.5       19      6                                              X   
+126CS2 G FLAG=V                                                                 
+126CS  G 143.5       100     13                                             X   
+126CS2 G FLAG=V                                                                 
+126CS  G 230.0                                                              X   
+126CS  L 1028.3     3(8)-                                                   L   
+126CSX L XREF=B                                                                 
+126CS  G 231.2                                                              X   
+126CS  G 384.5                                                              X   
+126CS  G 393.9                                                              X   
+126CS  L    1097.48131+                                                         
+126CSX L XREF=A                                                                 
+126CS cL J         log| {Ift}=5.19 {I6} from 0+                                 
+126CS  G 320.5     5 5.6     28                                                 
+126CS  G 415.5     3 42      8                                               C  
+126CS  G 558.5     5 8       3                                                  
+126CS  G 608.5     5 28      6                                              M  ?
+126CS  G 640.6     3 39      6                                                  
+126CS2 G FL=457.11                                                              
+126CS  G 643.1     5 25      6                                                  
+126CS  G 839.5     5 33      8                                               C  
+126CS  G 856.5     3 50      8                                               C  
+126CS  G 863.9     2 100     19                                              C  
+126CS  G 1097.5    5 47      11                                                 
+126CS  L 1126.3     3(9)-                                                   H   
+126CSX L XREF=B                                                                 
+126CS  G 210.4       100     25                                             X   
+126CS2 G FLAG=V                                                                 
+126CS  G 329.0                                                              X   
+126CS  G 388.4       42      17                                             X   
+126CS2 G FLAG=V                                                                 
+126CS  G 482.5                                                              X   
+126CS  L     1140.5 31,0-                                                       
+126CSX L XREF=A                                                                 
+126CS cL J         log| {Ift}=5.86 {I9} from 0+                                 
+126CS  G 551.2     3 100     17                                              C  
+126CS  G 899.2     5 28      11                                                 
+126CS  L 1166.7     3(9)-                                                   J   
+126CSX L XREF=B                                                                 
+126CS  G 211.4       100     14                                             X   
+126CS2 G FLAG=V                                                                 
+126CS  G 354.7       36      7                                              X   
+126CS2 G FLAG=V                                                                 
+126CS  G 369.7                                                              X   
+126CS  G 522.8                                                              X   
+126CS  L 1180.8     3(9)-                                                   D   
+126CSX L XREF=B                                                                 
+126CS  G 383.5       100     13                                             X   
+126CS2 G FLAG=V                                                                 
+126CS  G 537.0       38      13                                             X   
+126CS2 G FLAG=V                                                                 
+126CS  L    1210.75151+                                                         
+126CSX L XREF=A                                                                 
+126CS cL J         log| {Ift}=5.13 {I7} from 0+                                 
+126CS  G 667.8     3 16      7                                               C  
+126CS  G 882.5     5 16      4                                               C  
+126CS  G 929.6     5 33      7                                               C  
+126CS  G 977.2     2 35                                                      C  
+126CS  G 1210.8    3 100     20                                                 
+126CS  L 1221.2     3(9)-                                                   K   
+126CSX L XREF=B                                                                 
+126CS  G 193.0                                                              X   
+126CS  G 266.0       71      14                                             X   
+126CS2 G FLAG=V                                                                 
+126CS  G 402.5       100     14                                             X   
+126CS2 G FLAG=V                                                                 
+126CS  L    1234.3311 1+                                                        
+126CS cL J         log| {Ift}=4.67 {I6} from 0+                                 
+126CSX L XREF=A                                                                 
+126CS  G 392.5     2 32      7                                               C  
+126CS  G 452.8     3 7.5     33                                              C  
+126CS  G 691.6     2 33      3                                               C  
+126CS  G 744.5     3 23      3                                               C  
+126CS  G 905.9     5 15      3                                               C  
+126CS  G 953.1     3 20      5                                               C  
+126CS  G 976.8     2 73      7                                               C  
+126CS  G 993.4     3 100     17                                              C  
+126CS  G 1000.8    5 10      3                                               C  
+126CS  G 1234.4    3 80      15                                                 
+126CS  L 1237.9    14(11+)                                                  C   
+126CSX L XREF=B                                                                 
+126CS  G 337.5       100     8                                              X   
+126CS2 G FLAG=V                                                                 
+126CS  G 478.1       4       LT                                             X   
+126CS2 G FLAG=V                                                                 
+126CS  L    1241.63161+                                                         
+126CSX L XREF=A                                                                 
+126CS cL J         log| {Ift}=5.09 {I8} from 0+                                 
+126CS  G 698.6     3 25      7                                               C  
+126CS  G 702.6     5 7       4                                               C  
+126CS  G 913.5     5 39      7                                               C  
+126CS  G 984.2     3 100     21                                              C  
+126CS  G 1008.0    5 43      7                                               C  
+126CS  G 1241.8    3 93      18                                                 
+126CS  L    1293.01121+                                                         
+126CSX L XREF=A                                                                 
+126CS cL J         log| {Ift}=4.56 {I7} from 0+                                 
+126CS  G 583.5     3 11      3                                               C  
+126CS2 G FL=709.53                                                              
+126CS  G 611.2     5 13      2                                               C  
+126CS  G 750.5     5 3       1                                                  
+126CS  G 835.9     5 4       2                                                  
+126CS2 G FL=457.11                                                              
+126CS  G 964.4     5 5.5     22                                              C  
+126CS  G 1011.8    5 20      4                                               C  
+126CS  G 1035.4    3 44      9                                               C  
+126CS  G 1052.0    2 33      5                                               C  
+126CS  G 1059.4    5 11      2                                               C  
+126CS  G 1293.0    3 100     11                                                 
+126CS  L 1336.4     3(10)-                                                  E   
+126CSX L XREF=B                                                                 
+126CS  G 155.5        24     6                                                  
+126CS  G 539.3       100     12                                                 
+126CS  L 1397.1    14(11+)                                                  A   
+126CSX L XREF=B                                                                 
+126CS  G 496.5       100     12                                                 
+126CS  G 637.5        41     6                                                  
+126CS  L 1429.7     3(10)-                                                  I   
+126CSX L XREF=B                                                                 
+126CS  G 208.7        30     10                                                 
+126CS  G 262.7       100     10                                                 
+126CS  G 474.5        80     10                                                 
+126CS  G 514.0                                                                  
+126CS  G 632.2                                                                  
+126CS  L 1477.7     4(10)-                                                  G   
+126CSX L XREF=B                                                                 
+126CS  G 297.0                                                                  
+126CS  G 351.5       100     25                                                 
+126CS  G 561.8       100     25                                                 
+126CS  L 1492.7    14(12+)                                                  B   
+126CSX L XREF=B                                                                 
+126CS  G 95.5          9.3   23                                                 
+126CS  G 254.8        84     7                                                  
+126CS  G 592.5       100     9                                                  
+126CS  L 1595.5     4(10)-                                                  L   
+126CSX L XREF=B                                                                 
+126CS  G 258.7                                                                  
+126CS  G 567.5                                                                  
+126CS  L 1687.9     4(10)-                                                  M   
+126CSX L XREF=B                                                                 
+126CS  G 521.1                                                                  
+126CS  L 1696.3     4(11)-                                                  H   
+126CSX L XREF=B                                                                 
+126CS  G 218.4        27     9                                                  
+126CS  G 360.0                                                                  
+126CS  G 570.1       100     18                                                 
+126CS  L 1730.9     4(11)-                                                  J   
+126CSX L XREF=B                                                                 
+126CS  G 301.1        63     6                                                  
+126CS  G 564.3       100     13                                                 
+126CS  L 1759.1    14(12+)                                                  F   
+126CSX L XREF=B                                                                 
+126CS  G 361.9        37     5                                                  
+126CS  G 521.1       100     11                                                 
+126CS  L 1814.0     4(11)-                                                  K   
+126CSX L XREF=B                                                                 
+126CS  G 384.2                                                                  
+126CS  G 593.0       100     13                                                 
+126CS  L 1888.3    14(13+)                                                  C   
+126CSX L XREF=B                                                                 
+126CS  G 395.7       100     8                                                  
+126CS  G 650.5        16     3                                                  
+126CS  L 1893.2     4(11)-                                                  D   
+126CSX L XREF=B                                                                 
+126CS  G 557.0       100     20                                                 
+126CS  G 712.5        60     LT                                                 
+126CS  L 2044.9     4(12)-                                                  E   
+126CSX L XREF=B                                                                 
+126CS  G 152.0                                                                  
+126CS  G 708.5       100     9                                                  
+126CS  L 2086.2    14(13+)                                                  A   
+126CSX L XREF=B                                                                 
+126CS  G 327.1        46     15                                                 
+126CS  G 593.5        46     15                                                 
+126CS  G 689.3       100     15                                                 
+126CS  G 847.8        18     6                                                  
+126CS  L 2099.1     4(12)-                                                  I   
+126CSX L XREF=B                                                                 
+126CS  G 285.0                                                                  
+126CS  G 368.2        88     25                                                 
+126CS  G 669.3       100     13                                                 
+126CS  G 762.5                                                                  
+126CS  L 2205.4     4(12)-                                                  G   
+126CSX L XREF=B                                                                 
+126CS  G 509.1                                                                  
+126CS  G 727.8       100     30                                                 
+126CS  L 2231.6    14(14+)             0.86 PS   22                         B   
+126CSX L XREF=B                                                                 
+126CS  G 145.4         9     LT                                                 
+126CS cG $B(M1)(W.u)=0.31 {I+15-4} if M1 (2011Gr12)                             
+126CS  G 343.2        23     3                                                  
+126CS cG $B(M1)(W.u)=0.08 {I+4-1} if M1 (2011Gr12)                              
+126CS  G 739.2       100     9                                                  
+126CS cG $B(E2)(W.u)=60 {I+29-8} if E2 (2011Gr12)                               
+126CS  L 2283.1    17                                                           
+126CSX L XREF=B                                                                 
+126CS  G 524                                                                    
+126CS  L 2305.0     4(12)-                                                  M   
+126CSX L XREF=B                                                                 
+126CS  G 574.0                                                                  
+126CS  G 617.0                                                                  
+126CS  L 2342.1     4(12)-                                                  L   
+126CSX L XREF=B                                                                 
+126CS  G 297.3                                                                  
+126CS  G 746.5                                                                  
+126CS  L 2419.5     4(13)-                                                  H   
+126CSX L XREF=B                                                                 
+126CS  G 214.0                                                                  
+126CS  G 723.1       100     13                                                 
+126CS  L 2430.5    14(14+)             0.56 PS   12                         F   
+126CSX L XREF=B                                                                 
+126CS  G 344.4        31     6                                                  
+126CS cG $B(M1)(W.u)=0.09 {I+3-1} if M1 (2011Gr12)                              
+126CS  G 542.5       100     11                                                 
+126CS cG $B(M1)(W.u)=0.17 {I+6-2} if M1 (2011Gr12)                              
+126CS  G 671.1        33     11                                                 
+126CS cG $B(E2)(W.u)=34 {I+13-6} if E2 (2011Gr12)                               
+126CS  G 937.8         6.7   22                                                 
+126CS  L 2476.2     4(13)-                                                  J   
+126CSX L XREF=B                                                                 
+126CS  G 377.1                                                                  
+126CS  G 745.2       100     14                                                 
+126CS  L 2574.0     4(13)-                                                  K   
+126CSX L XREF=B                                                                 
+126CS  G 475.0                                                                  
+126CS  G 760.0       100     20                                                 
+126CS  L 2695.1    14(15+)             0.47 PS   +17-13                     C   
+126CSX L XREF=B                                                                 
+126CS  G 264          10     LE                                                 
+126CS cG $B(M1)(W.u)|<0.1 if M1 (2011Gr12)                                      
+126CS  G 463.5       100     11                                                 
+126CS cG $B(M1)(W.u)=0.26 {I+15-4} if M1 (2011Gr12)                             
+126CS  G 807.0        50     11                                                 
+126CS cG $B(E2)(W.u)=28 {I+17-5} if E2 (2011Gr12)                               
+126CS  L 2745.6     4(13)-                                                  D   
+126CSX L XREF=B                                                                 
+126CS  G 700.7                                                                  
+126CS  G 852.5       100     LT                                                 
+126CS  L 2857.2    14(15+)             0.74 PS   +28-21                     A   
+126CSX L XREF=B                                                                 
+126CS  G 426.5       100     12                                                 
+126CS cG $B(M1)(W.u)=0.14 {I+9-3} if M1 (2011Gr12)                              
+126CS  G 626          18     LE                                                 
+126CS cG $B(M1)(W.u)|<0.006 if M1 (2011Gr12)                                    
+126CS  G 771.0        47     6                                                  
+126CS cG $B(E2)(W.u)=22 {I+14-4} if E2 (2011Gr12)                               
+126CS  G 968.9        18     6                                                  
+126CS cG $B(E2)(W.u)=3.8 {I+26-8} if E2 (2011Gr12)                              
+126CS  L 2864.1    20                                                           
+126CSX L XREF=B                                                                 
+126CS  G 581                                                                    
+126CS  L 2890.9     4(14)-                                                  E   
+126CSX L XREF=B                                                                 
+126CS  G 846.2       100                                                        
+126CS  L 2934.1     4(14)-                                                  I   
+126CSX L XREF=B                                                                 
+126CS  G 360.2                                                                  
+126CS  G 457.7        33     LT                                                 
+126CS  G 835.0       100     17                                                 
+126CS  G 889.4                                                                  
+126CS  L 3052.3     4(14)-                                                  M   
+126CSX L XREF=B                                                                 
+126CS  G 576.3                                                                  
+126CS  G 747.1                                                                  
+126CS  L 3081.6     5(14)-                                                  G   
+126CSX L XREF=B                                                                 
+126CS  G 661.9                                                                  
+126CS  G 876.4                                                                  
+126CS  L 3110.4    14(16+)             0.53 PS   +13-11                     B   
+126CSX L XREF=B                                                                 
+126CS  G 253.0        50     5                                                  
+126CS cG $B(M1)(W.u)=0.45 {I+19-8} if M1 (2011Gr12)                             
+126CS  G 415.5        10     18                                                 
+126CS cG $B(M1)(W.u)|<0.02 if M1 (2011Gr12)                                     
+126CS  G 679.8         9     LT                                                 
+126CS cG $B(E2)(W.u)=11 {I+5-2} if E2 (2011Gr12)                                
+126CS  G 879.0       100     9                                                  
+126CS cG $B(E2)(W.u)=37 {I+14-6} if E2 (2011Gr12)                               
+126CS  L 3203.1     5(14)-                                                  L   
+126CSX L XREF=B                                                                 
+126CS  G 861.0                                                              *   
+126CS  L 3280.5     5(15)-                                                  H   
+126CSX L XREF=B                                                                 
+126CS  G 861.0       100                                                    *   
+126CS  L 3331.9    14(16+)             0.51 PS   +15-14                     F   
+126CSX L XREF=B                                                                 
+126CS  G 475          33     LE                                                 
+126CS cG $B(M1)(W.u)|<0.04 if M1 (2011Gr12)                                     
+126CS  G 637.0       100     17                                                 
+126CS cG $B(M1)(W.u)=0.11 {I+6-2} if M1 (2011Gr12)                              
+126CS  G 901.5        33     LT                                                 
+126CS cG $B(E2)(W.u)=13 {I+8-2} if E2 (2011Gr12)                                
+126CS  G 1100.0       20     7                                                  
+126CS  L 3341.7     4(15)-                                                  J   
+126CSX L XREF=B                                                                 
+126CS  G 407.8                                                                  
+126CS  G 865.4       100     11                                                 
+126CS  L 3413.5     4(15)-                                                  K   
+126CSX L XREF=B                                                                 
+126CS  G 479.1                                                                  
+126CS  G 839.4                                                                  
+126CS  L 3515.4     4                                                           
+126CSX L XREF=B                                                                 
+126CS  G 941.5                                                                  
+126CS  L 3606.0    14(17+)             0.58 PS   14                         C   
+126CSX L XREF=B                                                                 
+126CS  G 274          25     LE                                                 
+126CS cG $B(M1)(W.u)|<0.12 if M1 (2011Gr12)                                     
+126CS  G 495.8       100     13                                                 
+126CS cG $B(M1)(W.u)=0.13 {I+6-2} if M1 (2011Gr12)                              
+126CS  G 910.8        88     13                                                 
+126CS cG $B(E2)(W.u)=21 {I+10-3} if E2 (2011Gr12)                               
+126CS  L 3651.1     5(15)-                                                  D   
+126CSX L XREF=B                                                                 
+126CS  G 905.5                                                                  
+126CS  L 3772.2     4(16)-                                                  I   
+126CSX L XREF=B                                                                 
+126CS  G 430.5                                                                  
+126CS  G 838.0                                                                  
+126CS  G 881.5       100     30                                                 
+126CS  L 3793.3    14(17+)             0.54 PS   12                         A   
+126CSX L XREF=B                                                                 
+126CS  G 461.1        25     LT                                                 
+126CS cG $B(M1)(W.u)=0.06 {I+3-1} if M1 (2011Gr12)                              
+126CS  G 683          13     LE                                                 
+126CS cG $B(M1)(W.u)|<0.01 if M1 (2011Gr12)                                     
+126CS  G 936.1       100     13                                                 
+126CS cG $B(E2)(W.u)=31 {I+12-4} if E2 (2011Gr12)                               
+126CS  L 3858.6     5(16)-                                                  E   
+126CSX L XREF=B                                                                 
+126CS  G 967.7                                                                  
+126CS  L 4071.1    14(18+)             0.35 PS   7                          B   
+126CSX L XREF=B                                                                 
+126CS  G 277.5        21     LT                                                 
+126CS cG $B(M1)(W.u)=0.55 {I+21-11} if M1 (2011Gr12)                            
+126CS  G 465          14     LE                                                 
+126CS cG $B(M1)(W.u)|<0.04 if M1 (2011Gr12)                                     
+126CS  G 960.7       100     14                                                 
+126CS cG $B(E2)(W.u)=40 {I+13-6} if E2 (2011Gr12)                               
+126CS  L 4081.9     6(16)-                                                  G   
+126CSX L XREF=B                                                                 
+126CS  G 1000.3                                                                 
+126CS  L 4085.6     6(16)-                                                  L   
+126CSX L XREF=B                                                                 
+126CS  G 882.5                                                                  
+126CS  L 4149.6     4(17)-                                                  J   
+126CSX L XREF=B                                                                 
+126CS  G 377.5                                                                  
+126CS  G 634.2                                                                  
+126CS  G 735.7                                                                  
+126CS  G 808.0       100     25                                                 
+126CS  L 4262.2     6(17)-                                                  H   
+126CSX L XREF=B                                                                 
+126CS  G 981.7                                                                  
+126CS  L 4345.0    14(18+)                                                  F   
+126CSX L XREF=B                                                                 
+126CS  G 739.0       100     25                                                 
+126CS  G 1013.3       25     9                                                  
+126CS  L 4568.1     6(17)-                                                  D   
+126CSX L XREF=B                                                                 
+126CS  G 917.0                                                                  
+126CS  L 4578.7     4(18)-                                                  I   
+126CSX L XREF=B                                                                 
+126CS  G 429.2                                                                  
+126CS  G 806.5                                                                  
+126CS  L 4599.0    14(19+)             0.29 PS   +11-9                      C   
+126CSX L XREF=B                                                                 
+126CS  G 527.7       100     20                                                 
+126CS cG $B(M1)(W.u)=0.19 {I+13-4} if M1 (2011Gr12)                             
+126CS  G 993.0       100     20                                                 
+126CS cG $B(E2)(W.u)=25 {I+17-5} if E2 (2011Gr12)                               
+126CS  L 4801.0    14(19+)             0.69 PS   +20-18                     A   
+126CSX L XREF=B                                                                 
+126CS  G 1007.6      100                                                        
+126CS cG $B(E2)(W.u)=19 {I+9-3} if E2 (2011Gr12)                                
+126CS  L 4826.7     6(18)-                                                  E   
+126CSX L XREF=B                                                                 
+126CS  G 968.1                                                                  
+126CS  L 4981.8     5(19)-                                                  J   
+126CSX L XREF=B                                                                 
+126CS  G 403.0                                                                  
+126CS  G 832.2                                                                  
+126CS  L 5096.9     6(18)-                                                  G   
+126CSX L XREF=B                                                                 
+126CS  G 1015.0                                                                 
+126CS  L 5116.5    14(20+)             0.47 PS   12                         B   
+126CSX L XREF=B                                                                 
+126CS  G 315.5        27     7                                                  
+126CS  G 518          14     LE                                                 
+126CS cG $B(M1)(W.u)|<0.04 if M1 (2011Gr12)                                     
+126CS  G 1045.5      100     30                                                 
+126CS cG $B(E2)(W.u)=23 {I+11-3} if E2 (2011Gr12)                               
+126CS  L 5294.5     7(19)-                                                  H   
+126CSX L XREF=B                                                                 
+126CS  G 1032.3                                                                 
+126CS  L 5391.3    14(20+)                                                  F   
+126CSX L XREF=B                                                                 
+126CS  G 791.8       100     30                                                 
+126CS  G 1046.5       18     6                                                  
+126CS  L 5443.2     5(20)-                                                  I   
+126CSX L XREF=B                                                                 
+126CS  G 461.5                                                                  
+126CS  G 864.5                                                                  
+126CS  L 5523.9     7(19)-                                                  D   
+126CSX L XREF=B                                                                 
+126CS  G 955.8                                                                  
+126CS  L 5671.0    14(21+)             0.35 PS   10                         C   
+126CSX L XREF=B                                                                 
+126CS  G 554.5        80     LT                                                 
+126CS cG $B(M1)(W.u)=0.10 {I+10-4} if M1 (2011Gr12)                             
+126CS  G 1072.2      100     50                                                 
+126CS cG $B(E2)(W.u)=18 {I+18-4} if E2 (2011Gr12)                               
+126CS  L 5844.7     7(20)-                                                  E   
+126CSX L XREF=B                                                                 
+126CS  G 1018.0                                                                 
+126CS  L 5867.0    14(21+)                                                  A   
+126CSX L XREF=B                                                                 
+126CS  G 1066.0      100                                                        
+126CS  L 5897.3     5(21)-                                                  J   
+126CSX L XREF=B                                                                 
+126CS  G 454.0                                                                  
+126CS  G 915.5                                                                  
+126CS  L 6251.7    14(22+)                                                  B   
+126CSX L XREF=B                                                                 
+126CS  G 1135.2      100                                                        
+126CS  L 6389.7     5(22)-                                                  I   
+126CSX L XREF=B                                                                 
+126CS  G 492.2                                                                  
+126CS  G 946.7                                                                  
+126CS  L 6455.7    14(22+)                                                  F   
+126CSX L XREF=B                                                                 
+126CS  G 785.0                                                                  
+126CS  G 1064.2      100     40                                                 
+126CS  L 6819.3    14(23+)                                                  C   
+126CSX L XREF=B                                                                 
+126CS  G 1148.3      100                                                        
+126CS  L 6902.1     5(23)-                                                  J   
+126CSX L XREF=B                                                                 
+126CS  G 512.4                                                                  
+126CS  G 1004.8                                                                 
+126CS  L 6973.8    15(23+)                                                  A   
+126CSX L XREF=B                                                                 
+126CS  G 1106.8      100                                                        
+126CS  L 7420.1     6(24)-                                                  I   
+126CSX L XREF=B                                                                 
+126CS  G 1030.4                                                                 
+126CS  L 7450.2    15(24+)                                                  B   
+126CSX L XREF=B                                                                 
+126CS  G 1198.5      100                                                        
+126CS  L 7967.3    15(25+)                                                  C   
+126CSX L XREF=B                                                                 
+126CS  G 1148.0      100                                                        
+126CS  L 8687.2    18                                                       B   
+126CSX L XREF=B                                                                 
+126CS  G 1237                                                                   
+126CS  L 0.0+X       (8)-                                                   O   
+126CS DL E         LEVEL ENERGY HELD FIXED IN LEAST-SQUARES ADJUSTMENT          
+126CSX L XREF=B                                                                 
+126CS cL E         no connection to any other levels is observed                
+126CS cL J         From comparison of B(M1)/B(E2) ratios measured in (HI,xn|g)  
+126CS2cL with those expected for Nilsson orbitals (2007Wa09)                    
+126CS  L 224.32+X  24(9)-                                                   N   
+126CSX L XREF=B                                                                 
+126CS  G 224.2                                                                  
+126CS  L 498.28+X  24(10)-                                                  O   
+126CSX L XREF=B                                                                 
+126CS  G 274.0                                                                  
+126CS  G 498.4                                                                  
+126CS  L 839.4+X    3(11)-                                                  N   
+126CSX L XREF=B                                                                 
+126CS  G 341.0                                                                  
+126CS  G 614.9                                                                  
+126CS  L 1226.3+X   3(12)-                                                  O   
+126CSX L XREF=B                                                                 
+126CS  G 387.0                                                                  
+126CS  G 728.3                                                                  
+126CS  L 1650.8+X   4(13)-                                                  N   
+126CSX L XREF=B                                                                 
+126CS  G 424.8                                                                  
+126CS  G 811.0                                                                  
+126CS  L 2107.3+X   4(14)-                                                  O   
+126CSX L XREF=B                                                                 
+126CS  G 456.5                                                                  
+126CS  G 881.0                                                                  
+126CS  L 2593.8+X   4(15)-                                                  N   
+126CSX L XREF=B                                                                 
+126CS  G 486.5                                                                  
+126CS  G 943.0                                                                  
+126CS  L 3105.3+X   5(16)-                                                  O   
+126CSX L XREF=B                                                                 
+126CS  G 511.5                                                                  
+126CS  G 998.0                                                                  
+126CS  L 3630.8+X   5(17)-                                                  N   
+126CSX L XREF=B                                                                 
+126CS  G 525.5                                                                  
+126CS  G 1037.0                                                                 
+
+
